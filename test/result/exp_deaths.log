@@ -1,0 +1,72 @@
+SELECT
+count(DISTINCT state)
+FROM
+deaths.exp_deaths;
+count(DISTINCT state)
+52
+SELECT
+state,
+round(
+sum(deaths_0_24) + sum(deaths_25_44) + sum(deaths_45_64) + sum(deaths_65_74) + sum(deaths_75_84) + sum(deaths_85)
+)
+FROM
+deaths.exp_deaths
+WHERE
+left(month_code, 4) = '2020'
+GROUP BY
+state;
+state	round(
+sum(deaths_0_24) + sum(deaths_25_44) + sum(deaths_45_64) + sum(deaths_65_74) + sum(deaths_75_84) + sum(deaths_85)
+)
+Alabama	63318
+Alaska	5009
+Arizona	77172
+Arkansas	37894
+California	319893
+Colorado	47695
+Connecticut	38884
+Delaware	11015
+District of Columbia	7476
+Florida	243247
+Georgia	103166
+Hawaii	12090
+Idaho	16529
+Illinois	128759
+Indiana	77801
+Iowa	35729
+Kansas	31189
+Kentucky	55693
+Louisiana	56780
+Maine	15683
+Maryland	59754
+Massachusetts	69053
+Michigan	116625
+Minnesota	52188
+Mississippi	39227
+Missouri	76461
+Montana	12075
+Nebraska	19802
+Nevada	31417
+New Hampshire	13614
+New Jersey	95682
+New Mexico	22869
+New York	201697
+North Carolina	85801
+North Dakota	8938
+Ohio	143971
+Oklahoma	46185
+Oregon	40331
+Pennsylvania	155842
+Rhode Island	12221
+South Carolina	60212
+South Dakota	10196
+Tennessee	88418
+Texas	253377
+United States	3367085
+Utah	22101
+Vermont	6375
+Virginia	79576
+Washington	63118
+West Virginia	25533
+Wisconsin	62584
+Wyoming	5576

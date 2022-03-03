@@ -1,0 +1,12 @@
+SELECT
+count(DISTINCT regionname)
+FROM
+stringency.exp_stringency;
+count(DISTINCT regionname)
+52
+SELECT
+count(DISTINCT date_month)
+FROM
+stringency.exp_stringency;
+count(DISTINCT date_month)
+12
