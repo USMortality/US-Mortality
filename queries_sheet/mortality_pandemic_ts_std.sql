@@ -5,13 +5,13 @@ CREATE VIEW deaths.baseline AS
 SELECT
     state,
     week,
-    avg(adj_mortality) AS "baseline",
-    avg(adj_mortality_0_24) AS "baseline_0_24",
-    avg(adj_mortality_25_44) AS "baseline_25_44",
-    avg(adj_mortality_45_64) AS "baseline_45_64",
-    avg(adj_mortality_65_74) AS "baseline_65_74",
-    avg(adj_mortality_75_84) AS "baseline_75_84",
-    avg(adj_mortality_85) AS "baseline_85"
+    avg(adj_mortality_std) AS "baseline",
+    avg(adj_mortality_std_0_24) AS "baseline_0_24",
+    avg(adj_mortality_std_25_44) AS "baseline_25_44",
+    avg(adj_mortality_std_45_64) AS "baseline_45_64",
+    avg(adj_mortality_std_65_74) AS "baseline_65_74",
+    avg(adj_mortality_std_75_84) AS "baseline_75_84",
+    avg(adj_mortality_std_85) AS "baseline_85"
 FROM
     deaths.adj_mortality_week
 WHERE
@@ -24,13 +24,13 @@ ALL
 SELECT
     state,
     53 AS week,
-    avg(adj_mortality) AS "baseline",
-    avg(adj_mortality_0_24) AS "baseline_0_24",
-    avg(adj_mortality_25_44) AS "baseline_25_44",
-    avg(adj_mortality_45_64) AS "baseline_45_64",
-    avg(adj_mortality_65_74) AS "baseline_65_74",
-    avg(adj_mortality_75_84) AS "baseline_75_84",
-    avg(adj_mortality_85) AS "baseline_85"
+    avg(adj_mortality_std) AS "baseline",
+    avg(adj_mortality_std_0_24) AS "baseline_0_24",
+    avg(adj_mortality_std_25_44) AS "baseline_25_44",
+    avg(adj_mortality_std_45_64) AS "baseline_45_64",
+    avg(adj_mortality_std_65_74) AS "baseline_65_74",
+    avg(adj_mortality_std_75_84) AS "baseline_75_84",
+    avg(adj_mortality_std_85) AS "baseline_85"
 FROM
     deaths.adj_mortality_week
 WHERE
@@ -52,13 +52,13 @@ WITH data AS (
         baseline_65_74,
         baseline_75_84,
         baseline_85,
-        adj_mortality - baseline AS "excess",
-        adj_mortality_0_24 - baseline_0_24 AS "excess_0_24",
-        adj_mortality_25_44 - baseline_25_44 AS "excess_25_44",
-        adj_mortality_45_64 - baseline_45_64 AS "excess_45_64",
-        adj_mortality_65_74 - baseline_65_74 AS "excess_65_74",
-        adj_mortality_75_84 - baseline_75_84 AS "excess_75_84",
-        adj_mortality_85 - baseline_85 AS "excess_85"
+        adj_mortality_std - baseline AS "excess",
+        adj_mortality_std_0_24 - baseline_0_24 AS "excess_0_24",
+        adj_mortality_std_25_44 - baseline_25_44 AS "excess_25_44",
+        adj_mortality_std_45_64 - baseline_45_64 AS "excess_45_64",
+        adj_mortality_std_65_74 - baseline_65_74 AS "excess_65_74",
+        adj_mortality_std_75_84 - baseline_75_84 AS "excess_75_84",
+        adj_mortality_std_85 - baseline_85 AS "excess_85"
     FROM
         deaths.baseline a
         JOIN (
@@ -66,13 +66,13 @@ WITH data AS (
                 state,
                 year,
                 week,
-                adj_mortality,
-                adj_mortality_0_24,
-                adj_mortality_25_44,
-                adj_mortality_45_64,
-                adj_mortality_65_74,
-                adj_mortality_75_84,
-                adj_mortality_85
+                adj_mortality_std,
+                adj_mortality_std_0_24,
+                adj_mortality_std_25_44,
+                adj_mortality_std_45_64,
+                adj_mortality_std_65_74,
+                adj_mortality_std_75_84,
+                adj_mortality_std_85
             FROM
                 deaths.adj_mortality_week
             WHERE

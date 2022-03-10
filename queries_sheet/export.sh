@@ -16,3 +16,5 @@ mysql -h 127.0.0.1 -u root deaths <./queries_sheet/mortality_2020_2021_q4.sql \
     >./out/mortality_2020_2021_q4.csv
 mysql -h 127.0.0.1 -u root deaths <./queries_sheet/mortality_pandemic_ts.sql \
     >./out/mortality_pandemic_ts.csv
+mysql -h 127.0.0.1 -u root deaths <./queries_sheet/mortality_pandemic_ts_std.sql \
+    >./out/mortality_pandemic_ts_std.csv
