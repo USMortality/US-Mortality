@@ -161,7 +161,7 @@ FROM
                             AND a.year = b.year
                             AND a.week = b.week
                             AND a.age_group = b.age_group
-                            AND b.`type` = "Unweighted"
+                            AND b.`type` = "Predicted (weighted)"
                     ) a
             ) a
         GROUP BY
