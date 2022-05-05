@@ -40,3 +40,6 @@ done
 
 # Delay Correction
 mysql -h 127.0.0.1 -u root deaths <queries/exp_delay_correction.sql >out/mortality_delay_correction.csv
+
+# Sheets
+./queries_sheet/export.sh
