@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "puppeteer": "^14.0.0"
+  },
+  "scripts": {
+    "update": "npx ts-node index.ts"
+  }
+}
