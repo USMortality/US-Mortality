@@ -142,6 +142,7 @@ DROP TABLE IF EXISTS deaths.delay_correction;
 CREATE TABLE deaths.delay_correction AS
 SELECT
     a.state,
+    rank,
     mean,
     mean - @z * stderr AS 'lci',
     mean + @z * stderr AS 'uci',
