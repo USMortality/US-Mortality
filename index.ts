@@ -35,7 +35,7 @@ async function main() {
             else console.log(`stdout: ${stdout}`)
         })
         if (hasError) return
-        exec("./update.sh", (error: any, stdout: string, stderr: string) => {
+        exec("./archive.sh", (error: any, stdout: string, stderr: string) => {
             if (error) console.log(`error: ${error.message}`)
             if (stderr) console.log(`stderr: ${stderr}`)
             else console.log(`stdout: ${stdout}`)
