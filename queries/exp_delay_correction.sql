@@ -1,104 +1,172 @@
-DELIMITER $$
+DELIMITER $ $
+SET
+    @n = 13;
 
-set @n = 13;
-set @z = 2.179;
+SET
+    @z = 2.179;
 
 DROP PROCEDURE IF EXISTS diffWeeks;
-CREATE PROCEDURE diffWeeks()
-BEGIN
-    DECLARE counter INT DEFAULT 0;
-    DECLARE counter_p INT DEFAULT 1;
-    DECLARE result VARCHAR(1024) DEFAULT 'CREATE TABLE archive.diff_all AS ';
-    
-    REPEAT
-        SELECT week INTO @week_to FROM archive.mortality_weeks ORDER BY id DESC LIMIT counter, 1;
-        SELECT week INTO @week_from FROM archive.mortality_weeks ORDER BY id DESC  LIMIT counter_p, 1;
-        SET @weeks = CONCAT(@week_from, '_', @week_to);
 
-        -- ------------------------------------------------------------
-        
-        SET @sql = CONCAT( 'DROP TABLE IF EXISTS archive.diff_', @weeks, ';');
-        PREPARE stmt FROM @sql;
-        EXECUTE stmt;
-        DEALLOCATE PREPARE stmt;
+CREATE PROCEDURE diffWeeks() BEGIN DECLARE counter INT DEFAULT 0;
 
-        -- ------------------------------------------------------------
-        
-        SET @sql = CONCAT('CREATE TABLE archive.diff_', @weeks, ' AS ',
-            'SELECT',
-            '    a.state,',
-            '    a.week,',
-            '    b.rank,',
-            '    a.deaths / NULLIF(b.deaths, 0) AS "increase",',
-            '    a.deaths_0_24 / NULLIF(b.deaths_0_24, 0) AS "increase_0_24",',
-            '    a.deaths_25_44 / NULLIF(b.deaths_25_44, 0) AS "increase_25_44",',
-            '    a.deaths_45_64 / NULLIF(b.deaths_45_64, 0) AS "increase_45_64",',
-            '    a.deaths_65_74 / NULLIF(b.deaths_65_74, 0) AS "increase_65_74",',
-            '    a.deaths_75_84 / NULLIF(b.deaths_75_84, 0) AS "increase_75_84",',
-            '    a.deaths_85 / NULLIF(b.deaths_85, 0) AS "increase_85"',
-            'FROM',
-            '    archive.mortality_week_', @week_to, ' a',
-            '    JOIN (',
-            '        SELECT',
-            '            *,',
-            '            rank() over (',
-            '                PARTITION by state',
-            '                ORDER BY',
-            '                    year DESC,',
-            '                    week DESC',
-            '            ) AS rank',
-            '        FROM',
-            '            archive.mortality_week_', @week_from ,
-            '        WHERE',
-            '            deaths > 0',
-            '    ) b ON a.state = b.state',
-            '    AND a.year = b.year',
-            '    AND a.week = b.week;');
-        PREPARE stmt FROM @sql;
-        EXECUTE stmt;
-        DEALLOCATE PREPARE stmt;
-        
-        -- ------------------------------------------------------------
+DECLARE counter_p INT DEFAULT 1;
 
-        SET @sql = CONCAT(
-            'CREATE INDEX idx_all ON archive.diff_',
-            @weeks,
-            ' (state, week, rank);'
-        );
-        PREPARE stmt FROM @sql;
-        EXECUTE stmt;
-        DEALLOCATE PREPARE stmt;
-        
-        -- ------------------------------------------------------------
+DECLARE result VARCHAR(1024) DEFAULT 'CREATE TABLE archive.diff_all AS ';
 
-        SET result = CONCAT(
-                result,
-                " ",
-                'SELECT * FROM archive.diff_',
-                @weeks,
-                ' WHERE RANK <= ',
-                @n,
-                ' UNION ALL '
-            );
+REPEAT
+SELECT
+    week INTO @week_to
+FROM
+    archive.mortality_weeks
+ORDER BY
+    id DESC
+LIMIT
+    counter, 1;
 
-        SET counter = counter + 1;
-        SET counter_p = counter + 1;
-    UNTIL counter = @n
-    END REPEAT;
-    
-    -- Create final table
-    SET @sql = "DROP TABLE IF EXISTS archive.diff_all;";
-    PREPARE stmt FROM @sql;
-    EXECUTE stmt;
-    DEALLOCATE PREPARE stmt;
+SELECT
+    week INTO @week_from
+FROM
+    archive.mortality_weeks
+ORDER BY
+    id DESC
+LIMIT
+    counter_p, 1;
 
-    SET @sql = CONCAT(trim(trailing ' UNION ALL ' from result), ";");
-    PREPARE stmt FROM @sql;
-    EXECUTE stmt;
-    DEALLOCATE PREPARE stmt;
-END$$
+SET
+    @weeks = CONCAT(@week_from, '_', @week_to);
 
-DELIMITER ;
+-- ------------------------------------------------------------
+SET
+    @sql = CONCAT(
+        'DROP TABLE IF EXISTS archive.diff_',
+        @weeks,
+        ';'
+    );
+
+PREPARE stmt
+FROM
+    @sql;
+
+EXECUTE stmt;
+
+DEALLOCATE PREPARE stmt;
+
+-- ------------------------------------------------------------
+SET
+    @sql = CONCAT(
+        'CREATE TABLE archive.diff_',
+        @weeks,
+        ' AS ',
+        'SELECT',
+        '    a.state,',
+        '    a.week,',
+        '    b.rank,',
+        '    a.deaths / NULLIF(b.deaths, 0) AS "increase",',
+        '    a.deaths_0_24 / NULLIF(b.deaths_0_24, 0) AS "increase_0_24",',
+        '    a.deaths_25_44 / NULLIF(b.deaths_25_44, 0) AS "increase_25_44",',
+        '    a.deaths_45_64 / NULLIF(b.deaths_45_64, 0) AS "increase_45_64",',
+        '    a.deaths_65_74 / NULLIF(b.deaths_65_74, 0) AS "increase_65_74",',
+        '    a.deaths_75_84 / NULLIF(b.deaths_75_84, 0) AS "increase_75_84",',
+        '    a.deaths_85 / NULLIF(b.deaths_85, 0) AS "increase_85"',
+        'FROM',
+        '    archive.mortality_week_',
+        @week_to,
+        ' a',
+        '    JOIN (',
+        '        SELECT',
+        '            *,',
+        '            rank() over (',
+        '                PARTITION by state',
+        '                ORDER BY',
+        '                    year DESC,',
+        '                    week DESC',
+        '            ) AS rank',
+        '        FROM',
+        '            archive.mortality_week_',
+        @week_from,
+        '        WHERE',
+        '            deaths > 0',
+        '    ) b ON a.state = b.state',
+        '    AND a.year = b.year',
+        '    AND a.week = b.week;'
+    );
+
+PREPARE stmt
+FROM
+    @sql;
+
+EXECUTE stmt;
+
+DEALLOCATE PREPARE stmt;
+
+-- ------------------------------------------------------------
+SET
+    @sql = CONCAT(
+        'CREATE INDEX idx_all ON archive.diff_',
+        @weeks,
+        ' (state, week, rank);'
+    );
+
+PREPARE stmt
+FROM
+    @sql;
+
+EXECUTE stmt;
+
+DEALLOCATE PREPARE stmt;
+
+-- ------------------------------------------------------------
+SET
+    result = CONCAT(
+        result,
+        " ",
+        'SELECT * FROM archive.diff_',
+        @weeks,
+        ' WHERE RANK <= ',
+        @n,
+        ' UNION ALL '
+    );
+
+SET
+    counter = counter + 1;
+
+SET
+    counter_p = counter + 1;
+
+UNTIL counter = @n
+END REPEAT;
+
+-- Create final table
+SET
+    @sql = "DROP TABLE IF EXISTS archive.diff_all;";
+
+PREPARE stmt
+FROM
+    @sql;
+
+EXECUTE stmt;
+
+DEALLOCATE PREPARE stmt;
+
+SET
+    @sql = CONCAT(
+        trim(
+            TRAILING ' UNION ALL '
+            FROM
+                result
+        ),
+        ";"
+    );
+
+PREPARE stmt
+FROM
+    @sql;
+
+EXECUTE stmt;
+
+DEALLOCATE PREPARE stmt;
+
+END $ $ DELIMITER;
 
 call diffWeeks();
 
@@ -183,6 +251,31 @@ ORDER BY
     state,
     rank DESC;
 
+-- -------------------------
+-- Calculate cumulative correction factor
+DROP VIEW IF EXISTS archive.exp_delay_correction_mean_cum;
+
+CREATE VIEW archive.exp_delay_correction_mean_cum AS
+SELECT
+    state,
+    rank,
+    mean,
+    (
+        SELECT
+            EXP(SUM(LOG(mean)))
+        FROM
+            deaths.delay_correction
+        WHERE
+            state = a.state
+            AND rank >= a.rank
+    ) AS mean_cum
+FROM
+    deaths.delay_correction a
+GROUP BY
+    state,
+    rank;
+
+-- -------------------------
 SELECT
     *
 FROM

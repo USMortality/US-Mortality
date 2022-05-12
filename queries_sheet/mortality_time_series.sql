@@ -21,7 +21,7 @@ FROM
                     adj_mortality,
                     pop_total
                 FROM
-                    deaths.adj_mortality_week
+                    deaths.adj_mortality_week_predicted
                 WHERE
                     year IN (2020, 2021, 2022)
                     AND `state` IN (
@@ -51,7 +51,7 @@ FROM
                     week,
                     AVG(adj_mortality) AS adj_mortality_baseline
                 FROM
-                    deaths.adj_mortality_week
+                    deaths.adj_mortality_week_predicted
                 WHERE
                     year IN (2015, 2016, 2017, 2018, 2019)
                 GROUP BY
@@ -66,7 +66,7 @@ FROM
             week,
             sum(pop_total) AS pop_total_all
         FROM
-            deaths.adj_mortality_week
+            deaths.adj_mortality_week_predicted
         WHERE
             year IN (2020, 2021, 2022)
             AND `state` IN (

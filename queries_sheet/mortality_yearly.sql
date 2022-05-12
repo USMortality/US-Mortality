@@ -3,7 +3,7 @@ SELECT
     year,
     sum(adj_mortality)
 FROM
-    deaths.adj_mortality_week
+    deaths.adj_mortality_week_predicted
 WHERE
     year IN (2015, 2016, 2017, 2018, 2019, 2021, 2022)
     AND state = "United States"
@@ -16,7 +16,7 @@ SELECT
     year,
     sum(adj_mortality) * (52 /(52 + 5 / 7))
 FROM
-    deaths.adj_mortality_week
+    deaths.adj_mortality_week_predicted
 WHERE
     year = 2020
     AND state = "United States"

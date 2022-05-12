@@ -4,7 +4,7 @@ SELECT
     @year_quarter := concat(year, "/", ceil(cast(week AS integer) / 13)) AS year_quarter,
     sum(adj_mortality) AS "mortality"
 FROM
-    deaths.adj_mortality_week
+    deaths.adj_mortality_week_predicted
 WHERE
     year IN (2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022)
     AND state = "United States"
