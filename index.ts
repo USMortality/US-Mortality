@@ -1,6 +1,7 @@
 const puppeteer = require('puppeteer');
 const dateCheckerLog = require('./dateCheckerLog.json')
 const { exec } = require("child_process");
+const fs = require('fs')
 
 async function getDate(page: any, url: string) {
     await page.goto(url);
@@ -21,6 +22,11 @@ async function hasNewData(): Promise<boolean> {
 
     if (date1 !== date2) return false
     if (date1 === dateCheckerLog.date) return false
+
+    fs.writeFile('./dateCheckerLog.json', JSON.stringify({ date: date1 }), (err: any) => {
+        if (err) console.error(err)
+    })
+
     return true
 }
 
