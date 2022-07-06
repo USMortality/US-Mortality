@@ -13,12 +13,12 @@ United States,2020,11,55
 United States,2020,12,550
 United States,2020,13,3043
 United States,2020,14,9638
-United States,2020,15,15527
+United States,2020,15,15528
 United States,2020,16,16305
 United States,2020,17,14659
 United States,2020,18,12437
 United States,2020,19,10463
-United States,2020,20,8496
+United States,2020,20,8497
 United States,2020,21,6593
 United States,2020,22,5596
 United States,2020,23,4519
@@ -47,82 +47,88 @@ United States,2020,45,7847
 United States,2020,46,9581
 United States,2020,47,12074
 United States,2020,48,14135
-United States,2020,49,16860
+United States,2020,49,16861
 United States,2020,50,19080
-United States,2020,51,20436
+United States,2020,51,20437
 United States,2020,52,21376
-United States,2020,53,22757
-United States,2021,1,23935
-United States,2021,2,23517
-United States,2021,3,21657
-United States,2021,4,18411
-United States,2021,5,15253
-United States,2021,6,12014
-United States,2021,7,9498
-United States,2021,8,7520
-United States,2021,9,5782
-United States,2021,10,4791
-United States,2021,11,4098
-United States,2021,12,3772
-United States,2021,13,3533
-United States,2021,14,3651
-United States,2021,15,3766
-United States,2021,16,3931
-United States,2021,17,3595
-United States,2021,18,3437
-United States,2021,19,3168
-United States,2021,20,2751
-United States,2021,21,2307
-United States,2021,22,1998
-United States,2021,23,1680
-United States,2021,24,1432
-United States,2021,25,1319
-United States,2021,26,1233
-United States,2021,27,1348
-United States,2021,28,1695
-United States,2021,29,2419
-United States,2021,30,3726
-United States,2021,31,5935
-United States,2021,32,8759
-United States,2021,33,11354
-United States,2021,34,13279
-United States,2021,35,14552
-United States,2021,36,14454
-United States,2021,37,14161
-United States,2021,38,13374
-United States,2021,39,11835
-United States,2021,40,10263
-United States,2021,41,9002
-United States,2021,42,8084
-United States,2021,43,7183
-United States,2021,44,6486
-United States,2021,45,6456
-United States,2021,46,6517
-United States,2021,47,7045
-United States,2021,48,7958
-United States,2021,49,8808
-United States,2021,50,9303
-United States,2021,51,9414
-United States,2021,52,10442
-United States,2022,1,13138
-United States,2022,2,16544
-United States,2022,3,18326
-United States,2022,4,17940
-United States,2022,5,15628
-United States,2022,6,12589
-United States,2022,7,9301
-United States,2022,8,6489
-United States,2022,9,4600
-United States,2022,10,3179
-United States,2022,11,2105
-United States,2022,12,1610
-United States,2022,13,1118
-United States,2022,14,856
-United States,2022,15,743
-United States,2022,16,704
-United States,2022,17,691
-United States,2022,18,611
-United States,2022,19,615
+United States,2020,53,22764
+United States,2021,1,23955
+United States,2021,2,23533
+United States,2021,3,21690
+United States,2021,4,18442
+United States,2021,5,15269
+United States,2021,6,12037
+United States,2021,7,9513
+United States,2021,8,7526
+United States,2021,9,5794
+United States,2021,10,4796
+United States,2021,11,4100
+United States,2021,12,3780
+United States,2021,13,3539
+United States,2021,14,3658
+United States,2021,15,3776
+United States,2021,16,3946
+United States,2021,17,3609
+United States,2021,18,3445
+United States,2021,19,3170
+United States,2021,20,2756
+United States,2021,21,2314
+United States,2021,22,2001
+United States,2021,23,1683
+United States,2021,24,1433
+United States,2021,25,1323
+United States,2021,26,1235
+United States,2021,27,1351
+United States,2021,28,1698
+United States,2021,29,2422
+United States,2021,30,3730
+United States,2021,31,5953
+United States,2021,32,8769
+United States,2021,33,11377
+United States,2021,34,13306
+United States,2021,35,14570
+United States,2021,36,14478
+United States,2021,37,14194
+United States,2021,38,13400
+United States,2021,39,11870
+United States,2021,40,10306
+United States,2021,41,9038
+United States,2021,42,8101
+United States,2021,43,7206
+United States,2021,44,6508
+United States,2021,45,6473
+United States,2021,46,6547
+United States,2021,47,7077
+United States,2021,48,7991
+United States,2021,49,8863
+United States,2021,50,9380
+United States,2021,51,9474
+United States,2021,52,10397
+United States,2022,1,12643
+United States,2022,2,16140
+United States,2022,3,17829
+United States,2022,4,17320
+United States,2022,5,15235
+United States,2022,6,12218
+United States,2022,7,8923
+United States,2022,8,6184
+United States,2022,9,4342
+United States,2022,10,2990
+United States,2022,11,1988
+United States,2022,12,1498
+United States,2022,13,1060
+United States,2022,14,825
+United States,2022,15,748
+United States,2022,16,731
+United States,2022,17,779
+United States,2022,18,786
+United States,2022,19,958
+United States,2022,20,962
+United States,2022,21,1138
+United States,2022,22,1105
+United States,2022,23,1177
+United States,2022,24,1127
+United States,2022,25,927
 Alabama,2020,1,0
 Alabama,2020,2,0
 Alabama,2020,3,0
@@ -178,7 +184,7 @@ Alabama,2020,52,422
 Alabama,2020,53,479
 Alabama,2021,1,528
 Alabama,2021,2,570
-Alabama,2021,3,549
+Alabama,2021,3,550
 Alabama,2021,4,460
 Alabama,2021,5,333
 Alabama,2021,6,249
@@ -209,7 +215,7 @@ Alabama,2021,30,102
 Alabama,2021,31,213
 Alabama,2021,32,326
 Alabama,2021,33,403
-Alabama,2021,34,458
+Alabama,2021,34,459
 Alabama,2021,35,476
 Alabama,2021,36,531
 Alabama,2021,37,454
@@ -228,25 +234,31 @@ Alabama,2021,49,53
 Alabama,2021,50,63
 Alabama,2021,51,65
 Alabama,2021,52,64
-Alabama,2022,1,140
-Alabama,2022,2,207
-Alabama,2022,3,260
-Alabama,2022,4,362
-Alabama,2022,5,360
-Alabama,2022,6,339
-Alabama,2022,7,269
-Alabama,2022,8,207
-Alabama,2022,9,138
-Alabama,2022,10,85
-Alabama,2022,11,59
-Alabama,2022,12,36
-Alabama,2022,13,21
-Alabama,2022,14,19
+Alabama,2022,1,98
+Alabama,2022,2,144
+Alabama,2022,3,148
+Alabama,2022,4,243
+Alabama,2022,5,309
+Alabama,2022,6,295
+Alabama,2022,7,207
+Alabama,2022,8,177
+Alabama,2022,9,112
+Alabama,2022,10,60
+Alabama,2022,11,50
+Alabama,2022,12,27
+Alabama,2022,13,15
+Alabama,2022,14,17
 Alabama,2022,15,
-Alabama,2022,16,10
+Alabama,2022,16,14
 Alabama,2022,17,
-Alabama,2022,18,11
+Alabama,2022,18,14
 Alabama,2022,19,
+Alabama,2022,20,
+Alabama,2022,21,
+Alabama,2022,22,10
+Alabama,2022,23,17
+Alabama,2022,24,12
+Alabama,2022,25,
 Alaska,2020,1,0
 Alaska,2020,2,0
 Alaska,2020,3,0
@@ -335,32 +347,32 @@ Alaska,2021,32,23
 Alaska,2021,33,22
 Alaska,2021,34,17
 Alaska,2021,35,34
-Alaska,2021,36,26
-Alaska,2021,37,38
+Alaska,2021,36,28
+Alaska,2021,37,39
 Alaska,2021,38,50
-Alaska,2021,39,50
+Alaska,2021,39,54
 Alaska,2021,40,41
 Alaska,2021,41,42
-Alaska,2021,42,43
+Alaska,2021,42,44
 Alaska,2021,43,55
-Alaska,2021,44,31
-Alaska,2021,45,23
+Alaska,2021,44,33
+Alaska,2021,45,24
 Alaska,2021,46,22
 Alaska,2021,47,28
-Alaska,2021,48,14
+Alaska,2021,48,16
 Alaska,2021,49,15
 Alaska,2021,50,
 Alaska,2021,51,
 Alaska,2021,52,
 Alaska,2022,1,11
 Alaska,2022,2,12
-Alaska,2022,3,13
-Alaska,2022,4,16
-Alaska,2022,5,13
-Alaska,2022,6,20
-Alaska,2022,7,17
-Alaska,2022,8,13
-Alaska,2022,9,13
+Alaska,2022,3,
+Alaska,2022,4,11
+Alaska,2022,5,12
+Alaska,2022,6,18
+Alaska,2022,7,16
+Alaska,2022,8,14
+Alaska,2022,9,12
 Alaska,2022,10,
 Alaska,2022,11,
 Alaska,2022,12,
@@ -370,7 +382,13 @@ Alaska,2022,15,
 Alaska,2022,16,
 Alaska,2022,17,
 Alaska,2022,18,
-Alaska,2022,19,0
+Alaska,2022,19,
+Alaska,2022,20,
+Alaska,2022,21,
+Alaska,2022,22,
+Alaska,2022,23,
+Alaska,2022,24,
+Alaska,2022,25,
 Arizona,2020,1,0
 Arizona,2020,2,0
 Arizona,2020,3,0
@@ -426,7 +444,7 @@ Arizona,2020,52,708
 Arizona,2020,53,817
 Arizona,2021,1,891
 Arizona,2021,2,939
-Arizona,2021,3,895
+Arizona,2021,3,894
 Arizona,2021,4,717
 Arizona,2021,5,613
 Arizona,2021,6,458
@@ -462,39 +480,45 @@ Arizona,2021,35,253
 Arizona,2021,36,265
 Arizona,2021,37,246
 Arizona,2021,38,272
-Arizona,2021,39,256
-Arizona,2021,40,230
+Arizona,2021,39,255
+Arizona,2021,40,231
 Arizona,2021,41,243
 Arizona,2021,42,216
 Arizona,2021,43,258
 Arizona,2021,44,251
 Arizona,2021,45,322
-Arizona,2021,46,342
+Arizona,2021,46,344
 Arizona,2021,47,428
 Arizona,2021,48,446
 Arizona,2021,49,510
 Arizona,2021,50,454
 Arizona,2021,51,447
-Arizona,2021,52,408
-Arizona,2022,1,399
-Arizona,2022,2,426
-Arizona,2022,3,434
-Arizona,2022,4,451
-Arizona,2022,5,416
-Arizona,2022,6,354
-Arizona,2022,7,271
-Arizona,2022,8,191
-Arizona,2022,9,140
-Arizona,2022,10,101
-Arizona,2022,11,72
-Arizona,2022,12,41
-Arizona,2022,13,24
-Arizona,2022,14,22
-Arizona,2022,15,16
-Arizona,2022,16,14
-Arizona,2022,17,16
+Arizona,2021,52,392
+Arizona,2022,1,296
+Arizona,2022,2,338
+Arizona,2022,3,333
+Arizona,2022,4,355
+Arizona,2022,5,337
+Arizona,2022,6,290
+Arizona,2022,7,202
+Arizona,2022,8,153
+Arizona,2022,9,114
+Arizona,2022,10,79
+Arizona,2022,11,67
+Arizona,2022,12,36
+Arizona,2022,13,20
+Arizona,2022,14,17
+Arizona,2022,15,13
+Arizona,2022,16,11
+Arizona,2022,17,17
 Arizona,2022,18,
-Arizona,2022,19,14
+Arizona,2022,19,17
+Arizona,2022,20,15
+Arizona,2022,21,12
+Arizona,2022,22,25
+Arizona,2022,23,23
+Arizona,2022,24,41
+Arizona,2022,25,24
 Arkansas,2020,1,0
 Arkansas,2020,2,0
 Arkansas,2020,3,0
@@ -584,10 +608,10 @@ Arkansas,2021,33,217
 Arkansas,2021,34,196
 Arkansas,2021,35,203
 Arkansas,2021,36,184
-Arkansas,2021,37,164
+Arkansas,2021,37,165
 Arkansas,2021,38,147
 Arkansas,2021,39,142
-Arkansas,2021,40,109
+Arkansas,2021,40,110
 Arkansas,2021,41,83
 Arkansas,2021,42,73
 Arkansas,2021,43,68
@@ -596,29 +620,35 @@ Arkansas,2021,45,41
 Arkansas,2021,46,39
 Arkansas,2021,47,50
 Arkansas,2021,48,75
-Arkansas,2021,49,64
+Arkansas,2021,49,65
 Arkansas,2021,50,95
-Arkansas,2021,51,65
+Arkansas,2021,51,66
 Arkansas,2021,52,76
-Arkansas,2022,1,110
-Arkansas,2022,2,131
-Arkansas,2022,3,184
-Arkansas,2022,4,200
-Arkansas,2022,5,225
-Arkansas,2022,6,213
-Arkansas,2022,7,163
-Arkansas,2022,8,111
-Arkansas,2022,9,67
-Arkansas,2022,10,46
-Arkansas,2022,11,19
-Arkansas,2022,12,26
+Arkansas,2022,1,109
+Arkansas,2022,2,130
+Arkansas,2022,3,181
+Arkansas,2022,4,198
+Arkansas,2022,5,221
+Arkansas,2022,6,210
+Arkansas,2022,7,154
+Arkansas,2022,8,107
+Arkansas,2022,9,65
+Arkansas,2022,10,45
+Arkansas,2022,11,16
+Arkansas,2022,12,19
 Arkansas,2022,13,13
-Arkansas,2022,14,10
+Arkansas,2022,14,11
 Arkansas,2022,15,
 Arkansas,2022,16,
 Arkansas,2022,17,
 Arkansas,2022,18,
 Arkansas,2022,19,
+Arkansas,2022,20,
+Arkansas,2022,21,
+Arkansas,2022,22,
+Arkansas,2022,23,
+Arkansas,2022,24,
+Arkansas,2022,25,
 California,2020,1,0
 California,2020,2,0
 California,2020,3,0
@@ -672,10 +702,10 @@ California,2020,50,1850
 California,2020,51,2771
 California,2020,52,3721
 California,2020,53,4502
-California,2021,1,5008
+California,2021,1,5010
 California,2021,2,4782
-California,2021,3,4097
-California,2021,4,3321
+California,2021,3,4098
+California,2021,4,3320
 California,2021,5,2715
 California,2021,6,2086
 California,2021,7,1522
@@ -683,11 +713,11 @@ California,2021,8,1097
 California,2021,9,744
 California,2021,10,522
 California,2021,11,428
-California,2021,12,299
-California,2021,13,216
+California,2021,12,300
+California,2021,13,217
 California,2021,14,225
 California,2021,15,187
-California,2021,16,172
+California,2021,16,173
 California,2021,17,136
 California,2021,18,129
 California,2021,19,123
@@ -701,48 +731,54 @@ California,2021,26,77
 California,2021,27,97
 California,2021,28,122
 California,2021,29,178
-California,2021,30,262
+California,2021,30,264
 California,2021,31,404
 California,2021,32,625
-California,2021,33,779
+California,2021,33,782
 California,2021,34,939
 California,2021,35,1016
 California,2021,36,1049
 California,2021,37,931
-California,2021,38,844
-California,2021,39,770
-California,2021,40,661
-California,2021,41,529
-California,2021,42,537
+California,2021,38,845
+California,2021,39,771
+California,2021,40,660
+California,2021,41,530
+California,2021,42,538
 California,2021,43,530
-California,2021,44,518
-California,2021,45,546
-California,2021,46,543
-California,2021,47,478
-California,2021,48,464
-California,2021,49,417
-California,2021,50,504
-California,2021,51,466
-California,2021,52,552
-California,2022,1,819
-California,2022,2,1219
-California,2022,3,1633
-California,2022,4,1708
+California,2021,44,519
+California,2021,45,547
+California,2021,46,542
+California,2021,47,479
+California,2021,48,465
+California,2021,49,420
+California,2021,50,506
+California,2021,51,469
+California,2021,52,549
+California,2022,1,812
+California,2022,2,1217
+California,2022,3,1641
+California,2022,4,1706
 California,2022,5,1688
-California,2022,6,1267
-California,2022,7,920
-California,2022,8,653
-California,2022,9,438
-California,2022,10,315
+California,2022,6,1264
+California,2022,7,914
+California,2022,8,644
+California,2022,9,436
+California,2022,10,318
 California,2022,11,194
-California,2022,12,160
+California,2022,12,156
 California,2022,13,98
-California,2022,14,91
-California,2022,15,64
-California,2022,16,53
-California,2022,17,61
-California,2022,18,31
-California,2022,19,32
+California,2022,14,92
+California,2022,15,67
+California,2022,16,57
+California,2022,17,73
+California,2022,18,46
+California,2022,19,80
+California,2022,20,79
+California,2022,21,111
+California,2022,22,98
+California,2022,23,134
+California,2022,24,119
+California,2022,25,91
 Colorado,2020,1,0
 Colorado,2020,2,0
 Colorado,2020,3,0
@@ -820,9 +856,9 @@ Colorado,2021,21,54
 Colorado,2021,22,58
 Colorado,2021,23,40
 Colorado,2021,24,37
-Colorado,2021,25,30
-Colorado,2021,26,35
-Colorado,2021,27,44
+Colorado,2021,25,31
+Colorado,2021,26,36
+Colorado,2021,27,45
 Colorado,2021,28,34
 Colorado,2021,29,41
 Colorado,2021,30,37
@@ -840,33 +876,39 @@ Colorado,2021,41,145
 Colorado,2021,42,174
 Colorado,2021,43,198
 Colorado,2021,44,235
-Colorado,2021,45,262
+Colorado,2021,45,263
 Colorado,2021,46,269
 Colorado,2021,47,262
 Colorado,2021,48,271
-Colorado,2021,49,256
-Colorado,2021,50,231
+Colorado,2021,49,264
+Colorado,2021,50,232
 Colorado,2021,51,196
-Colorado,2021,52,175
-Colorado,2022,1,160
-Colorado,2022,2,205
-Colorado,2022,3,233
-Colorado,2022,4,217
-Colorado,2022,5,192
-Colorado,2022,6,150
-Colorado,2022,7,107
-Colorado,2022,8,81
-Colorado,2022,9,55
-Colorado,2022,10,38
-Colorado,2022,11,26
-Colorado,2022,12,22
-Colorado,2022,13,14
+Colorado,2021,52,172
+Colorado,2022,1,134
+Colorado,2022,2,185
+Colorado,2022,3,204
+Colorado,2022,4,185
+Colorado,2022,5,173
+Colorado,2022,6,128
+Colorado,2022,7,94
+Colorado,2022,8,67
+Colorado,2022,9,43
+Colorado,2022,10,32
+Colorado,2022,11,21
+Colorado,2022,12,17
+Colorado,2022,13,13
 Colorado,2022,14,
 Colorado,2022,15,11
 Colorado,2022,16,
 Colorado,2022,17,
 Colorado,2022,18,
-Colorado,2022,19,
+Colorado,2022,19,11
+Colorado,2022,20,17
+Colorado,2022,21,13
+Colorado,2022,22,20
+Colorado,2022,23,19
+Colorado,2022,24,21
+Colorado,2022,25,17
 Connecticut,2020,1,0
 Connecticut,2020,2,0
 Connecticut,2020,3,0
@@ -920,16 +962,16 @@ Connecticut,2020,50,208
 Connecticut,2020,51,231
 Connecticut,2020,52,224
 Connecticut,2020,53,275
-Connecticut,2021,1,221
+Connecticut,2021,1,220
 Connecticut,2021,2,219
 Connecticut,2021,3,234
-Connecticut,2021,4,168
+Connecticut,2021,4,167
 Connecticut,2021,5,161
 Connecticut,2021,6,130
 Connecticut,2021,7,78
-Connecticut,2021,8,73
+Connecticut,2021,8,72
 Connecticut,2021,9,55
-Connecticut,2021,10,52
+Connecticut,2021,10,51
 Connecticut,2021,11,48
 Connecticut,2021,12,39
 Connecticut,2021,13,43
@@ -952,12 +994,12 @@ Connecticut,2021,29,
 Connecticut,2021,30,
 Connecticut,2021,31,14
 Connecticut,2021,32,26
-Connecticut,2021,33,22
+Connecticut,2021,33,21
 Connecticut,2021,34,33
 Connecticut,2021,35,38
-Connecticut,2021,36,39
+Connecticut,2021,36,40
 Connecticut,2021,37,38
-Connecticut,2021,38,45
+Connecticut,2021,38,44
 Connecticut,2021,39,39
 Connecticut,2021,40,29
 Connecticut,2021,41,29
@@ -970,27 +1012,33 @@ Connecticut,2021,47,48
 Connecticut,2021,48,47
 Connecticut,2021,49,77
 Connecticut,2021,50,77
-Connecticut,2021,51,101
-Connecticut,2021,52,106
-Connecticut,2022,1,189
+Connecticut,2021,51,102
+Connecticut,2021,52,108
+Connecticut,2022,1,180
 Connecticut,2022,2,224
-Connecticut,2022,3,254
+Connecticut,2022,3,261
 Connecticut,2022,4,157
 Connecticut,2022,5,138
-Connecticut,2022,6,97
-Connecticut,2022,7,55
-Connecticut,2022,8,41
-Connecticut,2022,9,28
-Connecticut,2022,10,17
+Connecticut,2022,6,95
+Connecticut,2022,7,56
+Connecticut,2022,8,43
+Connecticut,2022,9,29
+Connecticut,2022,10,16
 Connecticut,2022,11,
 Connecticut,2022,12,
 Connecticut,2022,13,
 Connecticut,2022,14,
-Connecticut,2022,15,
+Connecticut,2022,15,12
 Connecticut,2022,16,
-Connecticut,2022,17,15
-Connecticut,2022,18,11
-Connecticut,2022,19,12
+Connecticut,2022,17,17
+Connecticut,2022,18,19
+Connecticut,2022,19,17
+Connecticut,2022,20,20
+Connecticut,2022,21,20
+Connecticut,2022,22,15
+Connecticut,2022,23,14
+Connecticut,2022,24,16
+Connecticut,2022,25,
 Delaware,2020,1,0
 Delaware,2020,2,0
 Delaware,2020,3,0
@@ -1096,13 +1144,13 @@ Delaware,2021,49,26
 Delaware,2021,50,39
 Delaware,2021,51,24
 Delaware,2021,52,49
-Delaware,2022,1,56
+Delaware,2022,1,54
 Delaware,2022,2,69
-Delaware,2022,3,84
+Delaware,2022,3,86
 Delaware,2022,4,66
 Delaware,2022,5,52
-Delaware,2022,6,33
-Delaware,2022,7,21
+Delaware,2022,6,34
+Delaware,2022,7,20
 Delaware,2022,8,20
 Delaware,2022,9,
 Delaware,2022,10,
@@ -1115,6 +1163,12 @@ Delaware,2022,16,
 Delaware,2022,17,
 Delaware,2022,18,
 Delaware,2022,19,
+Delaware,2022,20,
+Delaware,2022,21,
+Delaware,2022,22,
+Delaware,2022,23,
+Delaware,2022,24,
+Delaware,2022,25,
 District of Columbia,2020,1,0
 District of Columbia,2020,2,0
 District of Columbia,2020,3,0
@@ -1218,27 +1272,33 @@ District of Columbia,2021,47,
 District of Columbia,2021,48,
 District of Columbia,2021,49,10
 District of Columbia,2021,50,
-District of Columbia,2021,51,12
+District of Columbia,2021,51,13
 District of Columbia,2021,52,29
-District of Columbia,2022,1,34
+District of Columbia,2022,1,31
 District of Columbia,2022,2,30
 District of Columbia,2022,3,40
-District of Columbia,2022,4,27
-District of Columbia,2022,5,17
-District of Columbia,2022,6,14
+District of Columbia,2022,4,25
+District of Columbia,2022,5,14
+District of Columbia,2022,6,13
 District of Columbia,2022,7,
 District of Columbia,2022,8,
 District of Columbia,2022,9,
-District of Columbia,2022,10,
+District of Columbia,2022,10,0
 District of Columbia,2022,11,
 District of Columbia,2022,12,
 District of Columbia,2022,13,
 District of Columbia,2022,14,
 District of Columbia,2022,15,
-District of Columbia,2022,16,
+District of Columbia,2022,16,0
 District of Columbia,2022,17,
-District of Columbia,2022,18,0
+District of Columbia,2022,18,
 District of Columbia,2022,19,
+District of Columbia,2022,20,0
+District of Columbia,2022,21,
+District of Columbia,2022,22,0
+District of Columbia,2022,23,
+District of Columbia,2022,24,
+District of Columbia,2022,25,0
 Florida,2020,1,0
 Florida,2020,2,0
 Florida,2020,3,0
@@ -1293,18 +1353,18 @@ Florida,2020,51,595
 Florida,2020,52,716
 Florida,2020,53,856
 Florida,2021,1,974
-Florida,2021,2,1119
+Florida,2021,2,1120
 Florida,2021,3,1123
 Florida,2021,4,955
-Florida,2021,5,949
-Florida,2021,6,804
+Florida,2021,5,950
+Florida,2021,6,806
 Florida,2021,7,648
 Florida,2021,8,531
-Florida,2021,9,463
+Florida,2021,9,462
 Florida,2021,10,385
 Florida,2021,11,351
 Florida,2021,12,297
-Florida,2021,13,324
+Florida,2021,13,323
 Florida,2021,14,264
 Florida,2021,15,300
 Florida,2021,16,346
@@ -1312,57 +1372,63 @@ Florida,2021,17,310
 Florida,2021,18,311
 Florida,2021,19,288
 Florida,2021,20,253
-Florida,2021,21,210
+Florida,2021,21,212
 Florida,2021,22,243
 Florida,2021,23,169
 Florida,2021,24,164
 Florida,2021,25,137
 Florida,2021,26,152
-Florida,2021,27,200
+Florida,2021,27,199
 Florida,2021,28,278
 Florida,2021,29,431
-Florida,2021,30,836
-Florida,2021,31,1384
-Florida,2021,32,2032
+Florida,2021,30,837
+Florida,2021,31,1386
+Florida,2021,32,2030
 Florida,2021,33,2483
 Florida,2021,34,2689
-Florida,2021,35,2642
+Florida,2021,35,2641
 Florida,2021,36,2227
-Florida,2021,37,1783
-Florida,2021,38,1457
+Florida,2021,37,1785
+Florida,2021,38,1455
 Florida,2021,39,1066
-Florida,2021,40,763
-Florida,2021,41,553
+Florida,2021,40,766
+Florida,2021,41,555
 Florida,2021,42,420
 Florida,2021,43,293
-Florida,2021,44,257
-Florida,2021,45,200
+Florida,2021,44,256
+Florida,2021,45,199
 Florida,2021,46,140
 Florida,2021,47,118
 Florida,2021,48,144
 Florida,2021,49,139
-Florida,2021,50,121
+Florida,2021,50,123
 Florida,2021,51,151
-Florida,2021,52,252
-Florida,2022,1,474
-Florida,2022,2,884
-Florida,2022,3,1161
-Florida,2022,4,1158
-Florida,2022,5,1037
-Florida,2022,6,839
-Florida,2022,7,642
-Florida,2022,8,479
-Florida,2022,9,352
-Florida,2022,10,229
-Florida,2022,11,151
-Florida,2022,12,120
-Florida,2022,13,81
-Florida,2022,14,71
-Florida,2022,15,57
-Florida,2022,16,47
-Florida,2022,17,37
-Florida,2022,18,48
-Florida,2022,19,39
+Florida,2021,52,249
+Florida,2022,1,461
+Florida,2022,2,854
+Florida,2022,3,1120
+Florida,2022,4,1110
+Florida,2022,5,998
+Florida,2022,6,813
+Florida,2022,7,610
+Florida,2022,8,437
+Florida,2022,9,313
+Florida,2022,10,189
+Florida,2022,11,131
+Florida,2022,12,98
+Florida,2022,13,70
+Florida,2022,14,60
+Florida,2022,15,49
+Florida,2022,16,46
+Florida,2022,17,42
+Florida,2022,18,53
+Florida,2022,19,49
+Florida,2022,20,57
+Florida,2022,21,85
+Florida,2022,22,95
+Florida,2022,23,114
+Florida,2022,24,142
+Florida,2022,25,132
 Georgia,2020,1,0
 Georgia,2020,2,0
 Georgia,2020,3,0
@@ -1416,7 +1482,7 @@ Georgia,2020,50,304
 Georgia,2020,51,346
 Georgia,2020,52,464
 Georgia,2020,53,634
-Georgia,2021,1,790
+Georgia,2021,1,791
 Georgia,2021,2,920
 Georgia,2021,3,873
 Georgia,2021,4,808
@@ -1428,7 +1494,7 @@ Georgia,2021,9,229
 Georgia,2021,10,152
 Georgia,2021,11,141
 Georgia,2021,12,104
-Georgia,2021,13,120
+Georgia,2021,13,119
 Georgia,2021,14,106
 Georgia,2021,15,96
 Georgia,2021,16,96
@@ -1437,8 +1503,8 @@ Georgia,2021,18,92
 Georgia,2021,19,64
 Georgia,2021,20,80
 Georgia,2021,21,71
-Georgia,2021,22,57
-Georgia,2021,23,56
+Georgia,2021,22,58
+Georgia,2021,23,57
 Georgia,2021,24,38
 Georgia,2021,25,27
 Georgia,2021,26,30
@@ -1448,45 +1514,51 @@ Georgia,2021,29,66
 Georgia,2021,30,107
 Georgia,2021,31,241
 Georgia,2021,32,452
-Georgia,2021,33,665
+Georgia,2021,33,667
 Georgia,2021,34,830
-Georgia,2021,35,948
-Georgia,2021,36,912
+Georgia,2021,35,949
+Georgia,2021,36,911
 Georgia,2021,37,881
 Georgia,2021,38,752
 Georgia,2021,39,588
 Georgia,2021,40,463
-Georgia,2021,41,335
-Georgia,2021,42,274
+Georgia,2021,41,334
+Georgia,2021,42,275
 Georgia,2021,43,213
 Georgia,2021,44,149
-Georgia,2021,45,128
+Georgia,2021,45,129
 Georgia,2021,46,111
 Georgia,2021,47,78
-Georgia,2021,48,105
+Georgia,2021,48,106
 Georgia,2021,49,82
-Georgia,2021,50,127
-Georgia,2021,51,111
-Georgia,2021,52,195
-Georgia,2022,1,329
-Georgia,2022,2,499
-Georgia,2022,3,588
-Georgia,2022,4,607
-Georgia,2022,5,513
-Georgia,2022,6,461
-Georgia,2022,7,325
-Georgia,2022,8,236
-Georgia,2022,9,164
-Georgia,2022,10,107
-Georgia,2022,11,72
-Georgia,2022,12,55
-Georgia,2022,13,45
-Georgia,2022,14,26
-Georgia,2022,15,20
-Georgia,2022,16,17
-Georgia,2022,17,15
-Georgia,2022,18,14
-Georgia,2022,19,
+Georgia,2021,50,128
+Georgia,2021,51,114
+Georgia,2021,52,193
+Georgia,2022,1,315
+Georgia,2022,2,484
+Georgia,2022,3,563
+Georgia,2022,4,594
+Georgia,2022,5,504
+Georgia,2022,6,442
+Georgia,2022,7,309
+Georgia,2022,8,226
+Georgia,2022,9,161
+Georgia,2022,10,101
+Georgia,2022,11,66
+Georgia,2022,12,56
+Georgia,2022,13,35
+Georgia,2022,14,25
+Georgia,2022,15,18
+Georgia,2022,16,20
+Georgia,2022,17,17
+Georgia,2022,18,17
+Georgia,2022,19,14
+Georgia,2022,20,16
+Georgia,2022,21,16
+Georgia,2022,22,15
+Georgia,2022,23,22
+Georgia,2022,24,18
+Georgia,2022,25,14
 Hawaii,2020,1,0
 Hawaii,2020,2,0
 Hawaii,2020,3,0
@@ -1574,10 +1646,10 @@ Hawaii,2021,31,15
 Hawaii,2021,32,24
 Hawaii,2021,33,34
 Hawaii,2021,34,49
-Hawaii,2021,35,54
+Hawaii,2021,35,55
 Hawaii,2021,36,65
-Hawaii,2021,37,52
-Hawaii,2021,38,54
+Hawaii,2021,37,53
+Hawaii,2021,38,55
 Hawaii,2021,39,34
 Hawaii,2021,40,20
 Hawaii,2021,41,25
@@ -1592,13 +1664,13 @@ Hawaii,2021,49,
 Hawaii,2021,50,
 Hawaii,2021,51,
 Hawaii,2021,52,
-Hawaii,2022,1,16
+Hawaii,2022,1,15
 Hawaii,2022,2,18
-Hawaii,2022,3,50
-Hawaii,2022,4,36
+Hawaii,2022,3,48
+Hawaii,2022,4,35
 Hawaii,2022,5,43
-Hawaii,2022,6,26
-Hawaii,2022,7,15
+Hawaii,2022,6,25
+Hawaii,2022,7,13
 Hawaii,2022,8,14
 Hawaii,2022,9,
 Hawaii,2022,10,
@@ -1611,6 +1683,12 @@ Hawaii,2022,16,
 Hawaii,2022,17,
 Hawaii,2022,18,
 Hawaii,2022,19,
+Hawaii,2022,20,
+Hawaii,2022,21,
+Hawaii,2022,22,
+Hawaii,2022,23,
+Hawaii,2022,24,
+Hawaii,2022,25,
 Idaho,2020,1,0
 Idaho,2020,2,0
 Idaho,2020,3,0
@@ -1709,23 +1787,23 @@ Idaho,2021,42,112
 Idaho,2021,43,129
 Idaho,2021,44,95
 Idaho,2021,45,92
-Idaho,2021,46,54
+Idaho,2021,46,55
 Idaho,2021,47,47
 Idaho,2021,48,52
 Idaho,2021,49,38
 Idaho,2021,50,44
 Idaho,2021,51,48
-Idaho,2021,52,40
-Idaho,2022,1,40
-Idaho,2022,2,50
+Idaho,2021,52,38
+Idaho,2022,1,32
+Idaho,2022,2,42
 Idaho,2022,3,41
-Idaho,2022,4,74
-Idaho,2022,5,72
-Idaho,2022,6,76
-Idaho,2022,7,64
-Idaho,2022,8,42
-Idaho,2022,9,29
-Idaho,2022,10,14
+Idaho,2022,4,61
+Idaho,2022,5,66
+Idaho,2022,6,74
+Idaho,2022,7,57
+Idaho,2022,8,33
+Idaho,2022,9,24
+Idaho,2022,10,12
 Idaho,2022,11,
 Idaho,2022,12,
 Idaho,2022,13,
@@ -1735,6 +1813,12 @@ Idaho,2022,16,
 Idaho,2022,17,
 Idaho,2022,18,
 Idaho,2022,19,
+Idaho,2022,20,
+Idaho,2022,21,
+Idaho,2022,22,
+Idaho,2022,23,
+Idaho,2022,24,
+Idaho,2022,25,
 Illinois,2020,1,0
 Illinois,2020,2,0
 Illinois,2020,3,0
@@ -1790,7 +1874,7 @@ Illinois,2020,52,786
 Illinois,2020,53,697
 Illinois,2021,1,577
 Illinois,2021,2,502
-Illinois,2021,3,429
+Illinois,2021,3,430
 Illinois,2021,4,402
 Illinois,2021,5,299
 Illinois,2021,6,290
@@ -1837,28 +1921,34 @@ Illinois,2021,46,179
 Illinois,2021,47,206
 Illinois,2021,48,254
 Illinois,2021,49,334
-Illinois,2021,50,409
+Illinois,2021,50,410
 Illinois,2021,51,522
-Illinois,2021,52,577
-Illinois,2022,1,818
-Illinois,2022,2,875
-Illinois,2022,3,867
-Illinois,2022,4,696
-Illinois,2022,5,471
-Illinois,2022,6,381
-Illinois,2022,7,260
-Illinois,2022,8,158
-Illinois,2022,9,111
-Illinois,2022,10,91
-Illinois,2022,11,54
-Illinois,2022,12,43
+Illinois,2021,52,578
+Illinois,2022,1,820
+Illinois,2022,2,870
+Illinois,2022,3,859
+Illinois,2022,4,699
+Illinois,2022,5,470
+Illinois,2022,6,374
+Illinois,2022,7,258
+Illinois,2022,8,157
+Illinois,2022,9,112
+Illinois,2022,10,92
+Illinois,2022,11,57
+Illinois,2022,12,44
 Illinois,2022,13,28
-Illinois,2022,14,29
-Illinois,2022,15,26
-Illinois,2022,16,23
-Illinois,2022,17,17
-Illinois,2022,18,31
-Illinois,2022,19,24
+Illinois,2022,14,28
+Illinois,2022,15,27
+Illinois,2022,16,21
+Illinois,2022,17,19
+Illinois,2022,18,35
+Illinois,2022,19,34
+Illinois,2022,20,28
+Illinois,2022,21,51
+Illinois,2022,22,39
+Illinois,2022,23,45
+Illinois,2022,24,46
+Illinois,2022,25,37
 Indiana,2020,1,0
 Indiana,2020,2,0
 Indiana,2020,3,0
@@ -1913,15 +2003,15 @@ Indiana,2020,51,630
 Indiana,2020,52,548
 Indiana,2020,53,595
 Indiana,2021,1,501
-Indiana,2021,2,443
+Indiana,2021,2,442
 Indiana,2021,3,372
 Indiana,2021,4,333
-Indiana,2021,5,248
+Indiana,2021,5,247
 Indiana,2021,6,162
 Indiana,2021,7,125
 Indiana,2021,8,102
 Indiana,2021,9,76
-Indiana,2021,10,56
+Indiana,2021,10,57
 Indiana,2021,11,39
 Indiana,2021,12,41
 Indiana,2021,13,44
@@ -1930,7 +2020,7 @@ Indiana,2021,15,63
 Indiana,2021,16,46
 Indiana,2021,17,64
 Indiana,2021,18,64
-Indiana,2021,19,67
+Indiana,2021,19,68
 Indiana,2021,20,70
 Indiana,2021,21,65
 Indiana,2021,22,63
@@ -1953,36 +2043,42 @@ Indiana,2021,38,312
 Indiana,2021,39,284
 Indiana,2021,40,250
 Indiana,2021,41,221
-Indiana,2021,42,207
+Indiana,2021,42,206
 Indiana,2021,43,169
 Indiana,2021,44,179
 Indiana,2021,45,180
-Indiana,2021,46,181
-Indiana,2021,47,216
+Indiana,2021,46,182
+Indiana,2021,47,217
 Indiana,2021,48,281
-Indiana,2021,49,364
+Indiana,2021,49,363
 Indiana,2021,50,402
 Indiana,2021,51,430
-Indiana,2021,52,443
-Indiana,2022,1,422
-Indiana,2022,2,524
-Indiana,2022,3,502
-Indiana,2022,4,436
-Indiana,2022,5,349
-Indiana,2022,6,298
-Indiana,2022,7,254
-Indiana,2022,8,153
-Indiana,2022,9,105
-Indiana,2022,10,86
-Indiana,2022,11,44
-Indiana,2022,12,36
-Indiana,2022,13,33
-Indiana,2022,14,15
-Indiana,2022,15,
-Indiana,2022,16,19
-Indiana,2022,17,11
-Indiana,2022,18,
-Indiana,2022,19,
+Indiana,2021,52,446
+Indiana,2022,1,419
+Indiana,2022,2,519
+Indiana,2022,3,492
+Indiana,2022,4,434
+Indiana,2022,5,340
+Indiana,2022,6,295
+Indiana,2022,7,250
+Indiana,2022,8,144
+Indiana,2022,9,103
+Indiana,2022,10,87
+Indiana,2022,11,41
+Indiana,2022,12,38
+Indiana,2022,13,35
+Indiana,2022,14,17
+Indiana,2022,15,20
+Indiana,2022,16,22
+Indiana,2022,17,20
+Indiana,2022,18,11
+Indiana,2022,19,16
+Indiana,2022,20,23
+Indiana,2022,21,20
+Indiana,2022,22,24
+Indiana,2022,23,31
+Indiana,2022,24,14
+Indiana,2022,25,19
 Iowa,2020,1,0
 Iowa,2020,2,0
 Iowa,2020,3,0
@@ -2087,26 +2183,32 @@ Iowa,2021,48,94
 Iowa,2021,49,111
 Iowa,2021,50,129
 Iowa,2021,51,137
-Iowa,2021,52,125
-Iowa,2022,1,126
-Iowa,2022,2,153
-Iowa,2022,3,130
-Iowa,2022,4,142
+Iowa,2021,52,122
+Iowa,2022,1,115
+Iowa,2022,2,144
+Iowa,2022,3,126
+Iowa,2022,4,134
 Iowa,2022,5,137
-Iowa,2022,6,85
-Iowa,2022,7,91
-Iowa,2022,8,50
-Iowa,2022,9,41
-Iowa,2022,10,30
-Iowa,2022,11,14
-Iowa,2022,12,14
-Iowa,2022,13,10
+Iowa,2022,6,81
+Iowa,2022,7,85
+Iowa,2022,8,46
+Iowa,2022,9,38
+Iowa,2022,10,28
+Iowa,2022,11,13
+Iowa,2022,12,13
+Iowa,2022,13,
 Iowa,2022,14,
 Iowa,2022,15,
 Iowa,2022,16,
 Iowa,2022,17,
 Iowa,2022,18,
 Iowa,2022,19,
+Iowa,2022,20,
+Iowa,2022,21,12
+Iowa,2022,22,11
+Iowa,2022,23,11
+Iowa,2022,24,
+Iowa,2022,25,
 Kansas,2020,1,0
 Kansas,2020,2,
 Kansas,2020,3,0
@@ -2166,8 +2268,8 @@ Kansas,2021,3,165
 Kansas,2021,4,143
 Kansas,2021,5,87
 Kansas,2021,6,60
-Kansas,2021,7,55
-Kansas,2021,8,47
+Kansas,2021,7,56
+Kansas,2021,8,46
 Kansas,2021,9,27
 Kansas,2021,10,25
 Kansas,2021,11,14
@@ -2176,7 +2278,7 @@ Kansas,2021,13,19
 Kansas,2021,14,10
 Kansas,2021,15,14
 Kansas,2021,16,16
-Kansas,2021,17,20
+Kansas,2021,17,21
 Kansas,2021,18,11
 Kansas,2021,19,17
 Kansas,2021,20,22
@@ -2190,7 +2292,7 @@ Kansas,2021,27,22
 Kansas,2021,28,14
 Kansas,2021,29,24
 Kansas,2021,30,46
-Kansas,2021,31,80
+Kansas,2021,31,81
 Kansas,2021,32,77
 Kansas,2021,33,82
 Kansas,2021,34,104
@@ -2198,8 +2300,8 @@ Kansas,2021,35,103
 Kansas,2021,36,104
 Kansas,2021,37,100
 Kansas,2021,38,107
-Kansas,2021,39,83
-Kansas,2021,40,73
+Kansas,2021,39,84
+Kansas,2021,40,74
 Kansas,2021,41,62
 Kansas,2021,42,75
 Kansas,2021,43,60
@@ -2210,27 +2312,33 @@ Kansas,2021,47,68
 Kansas,2021,48,83
 Kansas,2021,49,114
 Kansas,2021,50,125
-Kansas,2021,51,112
-Kansas,2021,52,166
-Kansas,2022,1,149
-Kansas,2022,2,210
-Kansas,2022,3,194
-Kansas,2022,4,194
-Kansas,2022,5,163
-Kansas,2022,6,149
-Kansas,2022,7,103
-Kansas,2022,8,66
-Kansas,2022,9,47
-Kansas,2022,10,36
-Kansas,2022,11,14
-Kansas,2022,12,20
-Kansas,2022,13,16
-Kansas,2022,14,13
+Kansas,2021,51,113
+Kansas,2021,52,161
+Kansas,2022,1,124
+Kansas,2022,2,207
+Kansas,2022,3,188
+Kansas,2022,4,183
+Kansas,2022,5,159
+Kansas,2022,6,131
+Kansas,2022,7,94
+Kansas,2022,8,46
+Kansas,2022,9,40
+Kansas,2022,10,29
+Kansas,2022,11,10
+Kansas,2022,12,17
+Kansas,2022,13,13
+Kansas,2022,14,11
 Kansas,2022,15,
 Kansas,2022,16,
 Kansas,2022,17,
 Kansas,2022,18,10
 Kansas,2022,19,
+Kansas,2022,20,
+Kansas,2022,21,10
+Kansas,2022,22,
+Kansas,2022,23,10
+Kansas,2022,24,
+Kansas,2022,25,
 Kentucky,2020,1,0
 Kentucky,2020,2,0
 Kentucky,2020,3,0
@@ -2298,7 +2406,7 @@ Kentucky,2021,11,55
 Kentucky,2021,12,66
 Kentucky,2021,13,45
 Kentucky,2021,14,41
-Kentucky,2021,15,41
+Kentucky,2021,15,42
 Kentucky,2021,16,45
 Kentucky,2021,17,30
 Kentucky,2021,18,40
@@ -2319,42 +2427,48 @@ Kentucky,2021,32,137
 Kentucky,2021,33,198
 Kentucky,2021,34,257
 Kentucky,2021,35,364
-Kentucky,2021,36,354
+Kentucky,2021,36,355
 Kentucky,2021,37,403
 Kentucky,2021,38,412
 Kentucky,2021,39,414
 Kentucky,2021,40,289
 Kentucky,2021,41,276
 Kentucky,2021,42,195
-Kentucky,2021,43,155
-Kentucky,2021,44,128
+Kentucky,2021,43,156
+Kentucky,2021,44,130
 Kentucky,2021,45,104
 Kentucky,2021,46,103
 Kentucky,2021,47,117
-Kentucky,2021,48,133
+Kentucky,2021,48,134
 Kentucky,2021,49,162
 Kentucky,2021,50,194
 Kentucky,2021,51,205
-Kentucky,2021,52,213
-Kentucky,2022,1,219
-Kentucky,2022,2,270
-Kentucky,2022,3,303
-Kentucky,2022,4,339
+Kentucky,2021,52,217
+Kentucky,2022,1,222
+Kentucky,2022,2,273
+Kentucky,2022,3,296
+Kentucky,2022,4,330
 Kentucky,2022,5,361
-Kentucky,2022,6,285
-Kentucky,2022,7,260
-Kentucky,2022,8,201
-Kentucky,2022,9,154
-Kentucky,2022,10,96
-Kentucky,2022,11,84
-Kentucky,2022,12,49
-Kentucky,2022,13,40
-Kentucky,2022,14,26
-Kentucky,2022,15,19
-Kentucky,2022,16,15
-Kentucky,2022,17,15
-Kentucky,2022,18,10
-Kentucky,2022,19,
+Kentucky,2022,6,289
+Kentucky,2022,7,259
+Kentucky,2022,8,202
+Kentucky,2022,9,159
+Kentucky,2022,10,93
+Kentucky,2022,11,81
+Kentucky,2022,12,46
+Kentucky,2022,13,42
+Kentucky,2022,14,31
+Kentucky,2022,15,23
+Kentucky,2022,16,17
+Kentucky,2022,17,22
+Kentucky,2022,18,20
+Kentucky,2022,19,16
+Kentucky,2022,20,11
+Kentucky,2022,21,19
+Kentucky,2022,22,23
+Kentucky,2022,23,20
+Kentucky,2022,24,16
+Kentucky,2022,25,15
 Louisiana,2020,1,0
 Louisiana,2020,2,0
 Louisiana,2020,3,0
@@ -2443,7 +2557,7 @@ Louisiana,2021,32,381
 Louisiana,2021,33,403
 Louisiana,2021,34,433
 Louisiana,2021,35,388
-Louisiana,2021,36,295
+Louisiana,2021,36,296
 Louisiana,2021,37,306
 Louisiana,2021,38,212
 Louisiana,2021,39,147
@@ -2459,26 +2573,32 @@ Louisiana,2021,48,39
 Louisiana,2021,49,35
 Louisiana,2021,50,23
 Louisiana,2021,51,32
-Louisiana,2021,52,42
-Louisiana,2022,1,91
-Louisiana,2022,2,139
-Louisiana,2022,3,243
-Louisiana,2022,4,242
-Louisiana,2022,5,218
-Louisiana,2022,6,207
-Louisiana,2022,7,150
-Louisiana,2022,8,114
-Louisiana,2022,9,80
-Louisiana,2022,10,57
-Louisiana,2022,11,37
-Louisiana,2022,12,17
-Louisiana,2022,13,17
+Louisiana,2021,52,40
+Louisiana,2022,1,78
+Louisiana,2022,2,124
+Louisiana,2022,3,218
+Louisiana,2022,4,215
+Louisiana,2022,5,208
+Louisiana,2022,6,191
+Louisiana,2022,7,142
+Louisiana,2022,8,107
+Louisiana,2022,9,70
+Louisiana,2022,10,51
+Louisiana,2022,11,32
+Louisiana,2022,12,18
+Louisiana,2022,13,13
 Louisiana,2022,14,
-Louisiana,2022,15,15
-Louisiana,2022,16,10
+Louisiana,2022,15,16
+Louisiana,2022,16,12
 Louisiana,2022,17,
 Louisiana,2022,18,
 Louisiana,2022,19,
+Louisiana,2022,20,
+Louisiana,2022,21,
+Louisiana,2022,22,
+Louisiana,2022,23,
+Louisiana,2022,24,
+Louisiana,2022,25,
 Maine,2020,1,0
 Maine,2020,2,0
 Maine,2020,3,0
@@ -2578,31 +2698,37 @@ Maine,2021,43,31
 Maine,2021,44,40
 Maine,2021,45,52
 Maine,2021,46,52
-Maine,2021,47,55
-Maine,2021,48,51
+Maine,2021,47,56
+Maine,2021,48,52
 Maine,2021,49,70
 Maine,2021,50,79
 Maine,2021,51,73
-Maine,2021,52,57
-Maine,2022,1,47
-Maine,2022,2,49
-Maine,2022,3,63
-Maine,2022,4,65
-Maine,2022,5,57
-Maine,2022,6,47
-Maine,2022,7,53
-Maine,2022,8,10
-Maine,2022,9,16
-Maine,2022,10,19
+Maine,2021,52,55
+Maine,2022,1,19
+Maine,2022,2,35
+Maine,2022,3,41
+Maine,2022,4,50
+Maine,2022,5,46
+Maine,2022,6,39
+Maine,2022,7,47
+Maine,2022,8,
+Maine,2022,9,
+Maine,2022,10,12
 Maine,2022,11,
-Maine,2022,12,11
+Maine,2022,12,
 Maine,2022,13,
 Maine,2022,14,
 Maine,2022,15,
 Maine,2022,16,
-Maine,2022,17,14
+Maine,2022,17,
 Maine,2022,18,
-Maine,2022,19,13
+Maine,2022,19,18
+Maine,2022,20,
+Maine,2022,21,11
+Maine,2022,22,11
+Maine,2022,23,
+Maine,2022,24,10
+Maine,2022,25,
 Maryland,2020,1,0
 Maryland,2020,2,0
 Maryland,2020,3,0
@@ -2662,15 +2788,15 @@ Maryland,2021,3,306
 Maryland,2021,4,266
 Maryland,2021,5,212
 Maryland,2021,6,217
-Maryland,2021,7,171
+Maryland,2021,7,172
 Maryland,2021,8,137
-Maryland,2021,9,87
+Maryland,2021,9,88
 Maryland,2021,10,89
 Maryland,2021,11,100
 Maryland,2021,12,84
 Maryland,2021,13,103
 Maryland,2021,14,105
-Maryland,2021,15,97
+Maryland,2021,15,98
 Maryland,2021,16,113
 Maryland,2021,17,99
 Maryland,2021,18,76
@@ -2688,7 +2814,7 @@ Maryland,2021,29,12
 Maryland,2021,30,18
 Maryland,2021,31,22
 Maryland,2021,32,26
-Maryland,2021,33,47
+Maryland,2021,33,46
 Maryland,2021,34,60
 Maryland,2021,35,82
 Maryland,2021,36,104
@@ -2706,27 +2832,33 @@ Maryland,2021,47,65
 Maryland,2021,48,73
 Maryland,2021,49,97
 Maryland,2021,50,157
-Maryland,2021,51,169
-Maryland,2021,52,233
-Maryland,2022,1,339
-Maryland,2022,2,409
-Maryland,2022,3,386
-Maryland,2022,4,270
-Maryland,2022,5,209
-Maryland,2022,6,126
-Maryland,2022,7,70
-Maryland,2022,8,77
-Maryland,2022,9,48
-Maryland,2022,10,41
-Maryland,2022,11,23
-Maryland,2022,12,23
-Maryland,2022,13,13
+Maryland,2021,51,170
+Maryland,2021,52,230
+Maryland,2022,1,320
+Maryland,2022,2,397
+Maryland,2022,3,373
+Maryland,2022,4,258
+Maryland,2022,5,172
+Maryland,2022,6,108
+Maryland,2022,7,66
+Maryland,2022,8,75
+Maryland,2022,9,42
+Maryland,2022,10,40
+Maryland,2022,11,21
+Maryland,2022,12,16
+Maryland,2022,13,
 Maryland,2022,14,
 Maryland,2022,15,
 Maryland,2022,16,14
-Maryland,2022,17,14
+Maryland,2022,17,18
 Maryland,2022,18,18
-Maryland,2022,19,11
+Maryland,2022,19,15
+Maryland,2022,20,21
+Maryland,2022,21,19
+Maryland,2022,22,26
+Maryland,2022,23,25
+Maryland,2022,24,22
+Maryland,2022,25,14
 Massachusetts,2020,1,0
 Massachusetts,2020,2,0
 Massachusetts,2020,3,0
@@ -2739,7 +2871,7 @@ Massachusetts,2020,9,0
 Massachusetts,2020,10,
 Massachusetts,2020,11,0
 Massachusetts,2020,12,
-Massachusetts,2020,13,49
+Massachusetts,2020,13,48
 Massachusetts,2020,14,219
 Massachusetts,2020,15,619
 Massachusetts,2020,16,1065
@@ -2779,20 +2911,20 @@ Massachusetts,2020,49,190
 Massachusetts,2020,50,230
 Massachusetts,2020,51,273
 Massachusetts,2020,52,328
-Massachusetts,2020,53,350
+Massachusetts,2020,53,351
 Massachusetts,2021,1,360
 Massachusetts,2021,2,357
 Massachusetts,2021,3,348
-Massachusetts,2021,4,347
+Massachusetts,2021,4,346
 Massachusetts,2021,5,259
-Massachusetts,2021,6,186
+Massachusetts,2021,6,185
 Massachusetts,2021,7,158
 Massachusetts,2021,8,136
 Massachusetts,2021,9,96
 Massachusetts,2021,10,75
 Massachusetts,2021,11,72
 Massachusetts,2021,12,66
-Massachusetts,2021,13,65
+Massachusetts,2021,13,64
 Massachusetts,2021,14,52
 Massachusetts,2021,15,53
 Massachusetts,2021,16,45
@@ -2813,12 +2945,12 @@ Massachusetts,2021,30,14
 Massachusetts,2021,31,16
 Massachusetts,2021,32,30
 Massachusetts,2021,33,32
-Massachusetts,2021,34,43
+Massachusetts,2021,34,44
 Massachusetts,2021,35,60
 Massachusetts,2021,36,70
 Massachusetts,2021,37,68
 Massachusetts,2021,38,81
-Massachusetts,2021,39,90
+Massachusetts,2021,39,89
 Massachusetts,2021,40,72
 Massachusetts,2021,41,60
 Massachusetts,2021,42,67
@@ -2828,29 +2960,35 @@ Massachusetts,2021,45,64
 Massachusetts,2021,46,66
 Massachusetts,2021,47,90
 Massachusetts,2021,48,127
-Massachusetts,2021,49,134
-Massachusetts,2021,50,157
+Massachusetts,2021,49,135
+Massachusetts,2021,50,158
 Massachusetts,2021,51,173
-Massachusetts,2021,52,236
-Massachusetts,2022,1,283
-Massachusetts,2022,2,292
-Massachusetts,2022,3,364
-Massachusetts,2022,4,306
-Massachusetts,2022,5,246
-Massachusetts,2022,6,171
-Massachusetts,2022,7,88
+Massachusetts,2021,52,231
+Massachusetts,2022,1,250
+Massachusetts,2022,2,267
+Massachusetts,2022,3,351
+Massachusetts,2022,4,297
+Massachusetts,2022,5,239
+Massachusetts,2022,6,149
+Massachusetts,2022,7,78
 Massachusetts,2022,8,64
-Massachusetts,2022,9,32
-Massachusetts,2022,10,23
-Massachusetts,2022,11,21
-Massachusetts,2022,12,18
-Massachusetts,2022,13,17
+Massachusetts,2022,9,28
+Massachusetts,2022,10,21
+Massachusetts,2022,11,20
+Massachusetts,2022,12,20
+Massachusetts,2022,13,15
 Massachusetts,2022,14,18
-Massachusetts,2022,15,17
+Massachusetts,2022,15,18
 Massachusetts,2022,16,17
-Massachusetts,2022,17,14
+Massachusetts,2022,17,15
 Massachusetts,2022,18,24
-Massachusetts,2022,19,33
+Massachusetts,2022,19,45
+Massachusetts,2022,20,55
+Massachusetts,2022,21,33
+Massachusetts,2022,22,29
+Massachusetts,2022,23,28
+Massachusetts,2022,24,31
+Massachusetts,2022,25,13
 Michigan,2020,1,0
 Michigan,2020,2,0
 Michigan,2020,3,0
@@ -2863,7 +3001,7 @@ Michigan,2020,9,
 Michigan,2020,10,0
 Michigan,2020,11,0
 Michigan,2020,12,18
-Michigan,2020,13,228
+Michigan,2020,13,229
 Michigan,2020,14,659
 Michigan,2020,15,932
 Michigan,2020,16,932
@@ -2899,7 +3037,7 @@ Michigan,2020,45,259
 Michigan,2020,46,358
 Michigan,2020,47,508
 Michigan,2020,48,597
-Michigan,2020,49,695
+Michigan,2020,49,696
 Michigan,2020,50,763
 Michigan,2020,51,705
 Michigan,2020,52,582
@@ -2910,7 +3048,7 @@ Michigan,2021,3,319
 Michigan,2021,4,240
 Michigan,2021,5,224
 Michigan,2021,6,136
-Michigan,2021,7,126
+Michigan,2021,7,127
 Michigan,2021,8,91
 Michigan,2021,9,78
 Michigan,2021,10,73
@@ -2923,10 +3061,10 @@ Michigan,2021,16,454
 Michigan,2021,17,398
 Michigan,2021,18,356
 Michigan,2021,19,316
-Michigan,2021,20,241
+Michigan,2021,20,242
 Michigan,2021,21,166
 Michigan,2021,22,133
-Michigan,2021,23,95
+Michigan,2021,23,96
 Michigan,2021,24,67
 Michigan,2021,25,42
 Michigan,2021,26,20
@@ -2945,36 +3083,42 @@ Michigan,2021,38,191
 Michigan,2021,39,223
 Michigan,2021,40,230
 Michigan,2021,41,274
-Michigan,2021,42,328
-Michigan,2021,43,311
-Michigan,2021,44,302
+Michigan,2021,42,329
+Michigan,2021,43,310
+Michigan,2021,44,303
 Michigan,2021,45,437
 Michigan,2021,46,454
-Michigan,2021,47,620
-Michigan,2021,48,714
-Michigan,2021,49,785
-Michigan,2021,50,749
-Michigan,2021,51,694
-Michigan,2021,52,588
-Michigan,2022,1,587
-Michigan,2022,2,581
-Michigan,2022,3,564
-Michigan,2022,4,480
-Michigan,2022,5,418
-Michigan,2022,6,285
-Michigan,2022,7,241
-Michigan,2022,8,169
-Michigan,2022,9,113
-Michigan,2022,10,93
-Michigan,2022,11,59
+Michigan,2021,47,619
+Michigan,2021,48,716
+Michigan,2021,49,786
+Michigan,2021,50,756
+Michigan,2021,51,697
+Michigan,2021,52,579
+Michigan,2022,1,528
+Michigan,2022,2,514
+Michigan,2022,3,502
+Michigan,2022,4,391
+Michigan,2022,5,368
+Michigan,2022,6,256
+Michigan,2022,7,228
+Michigan,2022,8,159
+Michigan,2022,9,99
+Michigan,2022,10,85
+Michigan,2022,11,50
 Michigan,2022,12,47
-Michigan,2022,13,37
-Michigan,2022,14,29
-Michigan,2022,15,31
-Michigan,2022,16,29
-Michigan,2022,17,35
-Michigan,2022,18,28
-Michigan,2022,19,32
+Michigan,2022,13,36
+Michigan,2022,14,28
+Michigan,2022,15,29
+Michigan,2022,16,28
+Michigan,2022,17,34
+Michigan,2022,18,42
+Michigan,2022,19,45
+Michigan,2022,20,41
+Michigan,2022,21,58
+Michigan,2022,22,43
+Michigan,2022,23,43
+Michigan,2022,24,47
+Michigan,2022,25,26
 Minnesota,2020,1,0
 Minnesota,2020,2,0
 Minnesota,2020,3,0
@@ -3048,7 +3192,7 @@ Minnesota,2021,17,66
 Minnesota,2021,18,56
 Minnesota,2021,19,56
 Minnesota,2021,20,35
-Minnesota,2021,21,32
+Minnesota,2021,21,33
 Minnesota,2021,22,25
 Minnesota,2021,23,29
 Minnesota,2021,24,15
@@ -3067,38 +3211,44 @@ Minnesota,2021,36,61
 Minnesota,2021,37,74
 Minnesota,2021,38,99
 Minnesota,2021,39,99
-Minnesota,2021,40,122
+Minnesota,2021,40,121
 Minnesota,2021,41,117
 Minnesota,2021,42,112
-Minnesota,2021,43,130
+Minnesota,2021,43,129
 Minnesota,2021,44,137
 Minnesota,2021,45,152
 Minnesota,2021,46,202
 Minnesota,2021,47,221
-Minnesota,2021,48,242
+Minnesota,2021,48,241
 Minnesota,2021,49,246
 Minnesota,2021,50,240
 Minnesota,2021,51,194
-Minnesota,2021,52,203
-Minnesota,2022,1,198
-Minnesota,2022,2,155
-Minnesota,2022,3,185
-Minnesota,2022,4,202
-Minnesota,2022,5,135
-Minnesota,2022,6,135
-Minnesota,2022,7,84
-Minnesota,2022,8,56
-Minnesota,2022,9,46
-Minnesota,2022,10,36
-Minnesota,2022,11,14
-Minnesota,2022,12,21
+Minnesota,2021,52,197
+Minnesota,2022,1,184
+Minnesota,2022,2,151
+Minnesota,2022,3,173
+Minnesota,2022,4,197
+Minnesota,2022,5,128
+Minnesota,2022,6,122
+Minnesota,2022,7,79
+Minnesota,2022,8,51
+Minnesota,2022,9,39
+Minnesota,2022,10,31
+Minnesota,2022,11,13
+Minnesota,2022,12,17
 Minnesota,2022,13,10
-Minnesota,2022,14,14
-Minnesota,2022,15,14
+Minnesota,2022,14,12
+Minnesota,2022,15,13
 Minnesota,2022,16,
 Minnesota,2022,17,
-Minnesota,2022,18,16
-Minnesota,2022,19,14
+Minnesota,2022,18,21
+Minnesota,2022,19,18
+Minnesota,2022,20,20
+Minnesota,2022,21,29
+Minnesota,2022,22,26
+Minnesota,2022,23,12
+Minnesota,2022,24,28
+Minnesota,2022,25,18
 Mississippi,2020,1,0
 Mississippi,2020,2,0
 Mississippi,2020,3,0
@@ -3156,7 +3306,7 @@ Mississippi,2021,1,297
 Mississippi,2021,2,298
 Mississippi,2021,3,265
 Mississippi,2021,4,195
-Mississippi,2021,5,193
+Mississippi,2021,5,194
 Mississippi,2021,6,127
 Mississippi,2021,7,91
 Mississippi,2021,8,100
@@ -3167,7 +3317,7 @@ Mississippi,2021,12,31
 Mississippi,2021,13,39
 Mississippi,2021,14,35
 Mississippi,2021,15,25
-Mississippi,2021,16,26
+Mississippi,2021,16,27
 Mississippi,2021,17,24
 Mississippi,2021,18,21
 Mississippi,2021,19,31
@@ -3191,7 +3341,7 @@ Mississippi,2021,36,290
 Mississippi,2021,37,224
 Mississippi,2021,38,179
 Mississippi,2021,39,133
-Mississippi,2021,40,89
+Mississippi,2021,40,90
 Mississippi,2021,41,79
 Mississippi,2021,42,78
 Mississippi,2021,43,43
@@ -3204,25 +3354,31 @@ Mississippi,2021,49,28
 Mississippi,2021,50,39
 Mississippi,2021,51,47
 Mississippi,2021,52,63
-Mississippi,2022,1,106
-Mississippi,2022,2,170
-Mississippi,2022,3,229
-Mississippi,2022,4,253
-Mississippi,2022,5,263
-Mississippi,2022,6,199
-Mississippi,2022,7,155
-Mississippi,2022,8,90
-Mississippi,2022,9,78
-Mississippi,2022,10,45
-Mississippi,2022,11,20
-Mississippi,2022,12,11
-Mississippi,2022,13,14
-Mississippi,2022,14,11
-Mississippi,2022,15,11
+Mississippi,2022,1,105
+Mississippi,2022,2,169
+Mississippi,2022,3,230
+Mississippi,2022,4,248
+Mississippi,2022,5,253
+Mississippi,2022,6,184
+Mississippi,2022,7,148
+Mississippi,2022,8,82
+Mississippi,2022,9,73
+Mississippi,2022,10,43
+Mississippi,2022,11,18
+Mississippi,2022,12,10
+Mississippi,2022,13,12
+Mississippi,2022,14,10
+Mississippi,2022,15,10
 Mississippi,2022,16,
 Mississippi,2022,17,
 Mississippi,2022,18,
 Mississippi,2022,19,
+Mississippi,2022,20,0
+Mississippi,2022,21,
+Mississippi,2022,22,
+Mississippi,2022,23,10
+Mississippi,2022,24,
+Mississippi,2022,25,
 Missouri,2020,1,0
 Missouri,2020,2,0
 Missouri,2020,3,0
@@ -3280,18 +3436,18 @@ Missouri,2021,1,407
 Missouri,2021,2,397
 Missouri,2021,3,342
 Missouri,2021,4,275
-Missouri,2021,5,177
+Missouri,2021,5,176
 Missouri,2021,6,163
 Missouri,2021,7,126
 Missouri,2021,8,82
 Missouri,2021,9,76
-Missouri,2021,10,63
+Missouri,2021,10,64
 Missouri,2021,11,51
 Missouri,2021,12,65
 Missouri,2021,13,58
 Missouri,2021,14,39
 Missouri,2021,15,40
-Missouri,2021,16,43
+Missouri,2021,16,44
 Missouri,2021,17,53
 Missouri,2021,18,37
 Missouri,2021,19,42
@@ -3299,54 +3455,60 @@ Missouri,2021,20,40
 Missouri,2021,21,27
 Missouri,2021,22,39
 Missouri,2021,23,54
-Missouri,2021,24,55
+Missouri,2021,24,54
 Missouri,2021,25,81
 Missouri,2021,26,76
 Missouri,2021,27,94
-Missouri,2021,28,161
-Missouri,2021,29,188
+Missouri,2021,28,162
+Missouri,2021,29,189
 Missouri,2021,30,220
 Missouri,2021,31,299
-Missouri,2021,32,296
+Missouri,2021,32,298
 Missouri,2021,33,297
-Missouri,2021,34,317
-Missouri,2021,35,269
+Missouri,2021,34,318
+Missouri,2021,35,271
 Missouri,2021,36,229
-Missouri,2021,37,245
+Missouri,2021,37,246
 Missouri,2021,38,213
 Missouri,2021,39,201
 Missouri,2021,40,166
 Missouri,2021,41,151
 Missouri,2021,42,117
-Missouri,2021,43,114
+Missouri,2021,43,115
 Missouri,2021,44,110
 Missouri,2021,45,95
 Missouri,2021,46,110
 Missouri,2021,47,132
 Missouri,2021,48,157
-Missouri,2021,49,208
+Missouri,2021,49,209
 Missouri,2021,50,246
 Missouri,2021,51,262
 Missouri,2021,52,276
-Missouri,2022,1,364
-Missouri,2022,2,436
-Missouri,2022,3,464
-Missouri,2022,4,414
-Missouri,2022,5,374
-Missouri,2022,6,327
-Missouri,2022,7,235
-Missouri,2022,8,128
-Missouri,2022,9,103
-Missouri,2022,10,76
-Missouri,2022,11,49
-Missouri,2022,12,50
-Missouri,2022,13,26
-Missouri,2022,14,24
-Missouri,2022,15,15
-Missouri,2022,16,16
+Missouri,2022,1,352
+Missouri,2022,2,430
+Missouri,2022,3,460
+Missouri,2022,4,395
+Missouri,2022,5,365
+Missouri,2022,6,322
+Missouri,2022,7,233
+Missouri,2022,8,127
+Missouri,2022,9,98
+Missouri,2022,10,74
+Missouri,2022,11,44
+Missouri,2022,12,44
+Missouri,2022,13,23
+Missouri,2022,14,23
+Missouri,2022,15,14
+Missouri,2022,16,15
 Missouri,2022,17,10
-Missouri,2022,18,13
-Missouri,2022,19,10
+Missouri,2022,18,14
+Missouri,2022,19,12
+Missouri,2022,20,15
+Missouri,2022,21,15
+Missouri,2022,22,11
+Missouri,2022,23,16
+Missouri,2022,24,14
+Missouri,2022,25,19
 Montana,2020,1,0
 Montana,2020,2,0
 Montana,2020,3,0
@@ -3452,17 +3614,17 @@ Montana,2021,49,37
 Montana,2021,50,28
 Montana,2021,51,23
 Montana,2021,52,20
-Montana,2022,1,25
+Montana,2022,1,22
 Montana,2022,2,35
 Montana,2022,3,37
-Montana,2022,4,34
+Montana,2022,4,33
 Montana,2022,5,45
-Montana,2022,6,40
+Montana,2022,6,43
 Montana,2022,7,36
-Montana,2022,8,26
-Montana,2022,9,20
+Montana,2022,8,25
+Montana,2022,9,19
 Montana,2022,10,14
-Montana,2022,11,
+Montana,2022,11,10
 Montana,2022,12,
 Montana,2022,13,
 Montana,2022,14,
@@ -3471,6 +3633,12 @@ Montana,2022,16,
 Montana,2022,17,
 Montana,2022,18,
 Montana,2022,19,
+Montana,2022,20,
+Montana,2022,21,
+Montana,2022,22,
+Montana,2022,23,
+Montana,2022,24,
+Montana,2022,25,
 Nebraska,2020,1,0
 Nebraska,2020,2,0
 Nebraska,2020,3,0
@@ -3576,15 +3744,15 @@ Nebraska,2021,49,73
 Nebraska,2021,50,76
 Nebraska,2021,51,65
 Nebraska,2021,52,56
-Nebraska,2022,1,60
-Nebraska,2022,2,80
-Nebraska,2022,3,56
-Nebraska,2022,4,83
-Nebraska,2022,5,72
-Nebraska,2022,6,60
-Nebraska,2022,7,54
+Nebraska,2022,1,59
+Nebraska,2022,2,81
+Nebraska,2022,3,57
+Nebraska,2022,4,81
+Nebraska,2022,5,71
+Nebraska,2022,6,59
+Nebraska,2022,7,53
 Nebraska,2022,8,27
-Nebraska,2022,9,28
+Nebraska,2022,9,27
 Nebraska,2022,10,21
 Nebraska,2022,11,
 Nebraska,2022,12,
@@ -3595,6 +3763,12 @@ Nebraska,2022,16,
 Nebraska,2022,17,
 Nebraska,2022,18,
 Nebraska,2022,19,
+Nebraska,2022,20,
+Nebraska,2022,21,
+Nebraska,2022,22,
+Nebraska,2022,23,
+Nebraska,2022,24,0
+Nebraska,2022,25,0
 Nevada,2020,1,0
 Nevada,2020,2,0
 Nevada,2020,3,0
@@ -3674,9 +3848,9 @@ Nevada,2021,23,22
 Nevada,2021,24,23
 Nevada,2021,25,27
 Nevada,2021,26,36
-Nevada,2021,27,45
+Nevada,2021,27,46
 Nevada,2021,28,74
-Nevada,2021,29,88
+Nevada,2021,29,89
 Nevada,2021,30,137
 Nevada,2021,31,139
 Nevada,2021,32,149
@@ -3694,31 +3868,37 @@ Nevada,2021,43,78
 Nevada,2021,44,112
 Nevada,2021,45,103
 Nevada,2021,46,95
-Nevada,2021,47,95
+Nevada,2021,47,96
 Nevada,2021,48,103
 Nevada,2021,49,110
 Nevada,2021,50,86
 Nevada,2021,51,112
-Nevada,2021,52,100
-Nevada,2022,1,122
+Nevada,2021,52,98
+Nevada,2022,1,120
 Nevada,2022,2,172
-Nevada,2022,3,234
+Nevada,2022,3,235
 Nevada,2022,4,256
-Nevada,2022,5,227
+Nevada,2022,5,226
 Nevada,2022,6,196
-Nevada,2022,7,115
+Nevada,2022,7,113
 Nevada,2022,8,87
-Nevada,2022,9,75
+Nevada,2022,9,73
 Nevada,2022,10,43
 Nevada,2022,11,36
-Nevada,2022,12,22
+Nevada,2022,12,23
 Nevada,2022,13,20
 Nevada,2022,14,14
 Nevada,2022,15,
 Nevada,2022,16,
-Nevada,2022,17,10
+Nevada,2022,17,11
 Nevada,2022,18,
 Nevada,2022,19,
+Nevada,2022,20,12
+Nevada,2022,21,19
+Nevada,2022,22,
+Nevada,2022,23,18
+Nevada,2022,24,19
+Nevada,2022,25,10
 New Hampshire,2020,1,0
 New Hampshire,2020,2,0
 New Hampshire,2020,3,0
@@ -3813,36 +3993,42 @@ New Hampshire,2021,38,14
 New Hampshire,2021,39,11
 New Hampshire,2021,40,16
 New Hampshire,2021,41,24
-New Hampshire,2021,42,19
+New Hampshire,2021,42,18
 New Hampshire,2021,43,33
 New Hampshire,2021,44,22
 New Hampshire,2021,45,33
 New Hampshire,2021,46,30
 New Hampshire,2021,47,39
-New Hampshire,2021,48,48
+New Hampshire,2021,48,49
 New Hampshire,2021,49,50
 New Hampshire,2021,50,58
-New Hampshire,2021,51,64
-New Hampshire,2021,52,55
-New Hampshire,2022,1,49
+New Hampshire,2021,51,63
+New Hampshire,2021,52,51
+New Hampshire,2022,1,35
 New Hampshire,2022,2,48
-New Hampshire,2022,3,52
-New Hampshire,2022,4,43
-New Hampshire,2022,5,50
-New Hampshire,2022,6,21
-New Hampshire,2022,7,19
-New Hampshire,2022,8,17
-New Hampshire,2022,9,13
-New Hampshire,2022,10,15
+New Hampshire,2022,3,41
+New Hampshire,2022,4,37
+New Hampshire,2022,5,32
+New Hampshire,2022,6,16
+New Hampshire,2022,7,16
+New Hampshire,2022,8,11
+New Hampshire,2022,9,
+New Hampshire,2022,10,
 New Hampshire,2022,11,
 New Hampshire,2022,12,
-New Hampshire,2022,13,
-New Hampshire,2022,14,
-New Hampshire,2022,15,
+New Hampshire,2022,13,0
+New Hampshire,2022,14,0
+New Hampshire,2022,15,0
 New Hampshire,2022,16,0
 New Hampshire,2022,17,
 New Hampshire,2022,18,
-New Hampshire,2022,19,
+New Hampshire,2022,19,0
+New Hampshire,2022,20,
+New Hampshire,2022,21,
+New Hampshire,2022,22,12
+New Hampshire,2022,23,
+New Hampshire,2022,24,
+New Hampshire,2022,25,
 New Jersey,2020,1,0
 New Jersey,2020,2,0
 New Jersey,2020,3,0
@@ -3906,12 +4092,12 @@ New Jersey,2021,7,286
 New Jersey,2021,8,260
 New Jersey,2021,9,202
 New Jersey,2021,10,193
-New Jersey,2021,11,222
+New Jersey,2021,11,223
 New Jersey,2021,12,215
 New Jersey,2021,13,203
 New Jersey,2021,14,242
 New Jersey,2021,15,231
-New Jersey,2021,16,208
+New Jersey,2021,16,210
 New Jersey,2021,17,185
 New Jersey,2021,18,151
 New Jersey,2021,19,125
@@ -3941,32 +4127,38 @@ New Jersey,2021,42,106
 New Jersey,2021,43,99
 New Jersey,2021,44,89
 New Jersey,2021,45,77
-New Jersey,2021,46,72
+New Jersey,2021,46,73
 New Jersey,2021,47,73
-New Jersey,2021,48,94
+New Jersey,2021,48,95
 New Jersey,2021,49,125
 New Jersey,2021,50,158
 New Jersey,2021,51,186
-New Jersey,2021,52,334
-New Jersey,2022,1,560
-New Jersey,2022,2,693
-New Jersey,2022,3,652
-New Jersey,2022,4,507
-New Jersey,2022,5,349
-New Jersey,2022,6,204
-New Jersey,2022,7,136
-New Jersey,2022,8,78
-New Jersey,2022,9,52
-New Jersey,2022,10,47
-New Jersey,2022,11,33
-New Jersey,2022,12,24
+New Jersey,2021,52,335
+New Jersey,2022,1,554
+New Jersey,2022,2,682
+New Jersey,2022,3,646
+New Jersey,2022,4,496
+New Jersey,2022,5,340
+New Jersey,2022,6,198
+New Jersey,2022,7,135
+New Jersey,2022,8,76
+New Jersey,2022,9,48
+New Jersey,2022,10,38
+New Jersey,2022,11,29
+New Jersey,2022,12,20
 New Jersey,2022,13,17
 New Jersey,2022,14,21
-New Jersey,2022,15,22
-New Jersey,2022,16,31
-New Jersey,2022,17,27
-New Jersey,2022,18,25
-New Jersey,2022,19,33
+New Jersey,2022,15,21
+New Jersey,2022,16,32
+New Jersey,2022,17,26
+New Jersey,2022,18,34
+New Jersey,2022,19,35
+New Jersey,2022,20,45
+New Jersey,2022,21,46
+New Jersey,2022,22,36
+New Jersey,2022,23,37
+New Jersey,2022,24,18
+New Jersey,2022,25,22
 New Mexico,2020,1,0
 New Mexico,2020,2,0
 New Mexico,2020,3,0
@@ -4020,7 +4212,7 @@ New Mexico,2020,50,262
 New Mexico,2020,51,230
 New Mexico,2020,52,192
 New Mexico,2020,53,180
-New Mexico,2021,1,183
+New Mexico,2021,1,184
 New Mexico,2021,2,160
 New Mexico,2021,3,141
 New Mexico,2021,4,96
@@ -4052,7 +4244,7 @@ New Mexico,2021,29,
 New Mexico,2021,30,10
 New Mexico,2021,31,27
 New Mexico,2021,32,47
-New Mexico,2021,33,48
+New Mexico,2021,33,49
 New Mexico,2021,34,77
 New Mexico,2021,35,74
 New Mexico,2021,36,91
@@ -4060,30 +4252,30 @@ New Mexico,2021,37,74
 New Mexico,2021,38,59
 New Mexico,2021,39,69
 New Mexico,2021,40,70
-New Mexico,2021,41,66
+New Mexico,2021,41,67
 New Mexico,2021,42,67
 New Mexico,2021,43,73
-New Mexico,2021,44,100
+New Mexico,2021,44,101
 New Mexico,2021,45,118
 New Mexico,2021,46,144
 New Mexico,2021,47,139
 New Mexico,2021,48,144
-New Mexico,2021,49,187
+New Mexico,2021,49,188
 New Mexico,2021,50,157
-New Mexico,2021,51,153
-New Mexico,2021,52,147
-New Mexico,2022,1,110
-New Mexico,2022,2,137
-New Mexico,2022,3,143
-New Mexico,2022,4,149
-New Mexico,2022,5,126
-New Mexico,2022,6,90
-New Mexico,2022,7,71
-New Mexico,2022,8,53
-New Mexico,2022,9,47
-New Mexico,2022,10,23
-New Mexico,2022,11,25
-New Mexico,2022,12,22
+New Mexico,2021,51,156
+New Mexico,2021,52,140
+New Mexico,2022,1,86
+New Mexico,2022,2,122
+New Mexico,2022,3,134
+New Mexico,2022,4,133
+New Mexico,2022,5,101
+New Mexico,2022,6,81
+New Mexico,2022,7,59
+New Mexico,2022,8,51
+New Mexico,2022,9,37
+New Mexico,2022,10,19
+New Mexico,2022,11,21
+New Mexico,2022,12,17
 New Mexico,2022,13,10
 New Mexico,2022,14,
 New Mexico,2022,15,
@@ -4091,6 +4283,12 @@ New Mexico,2022,16,
 New Mexico,2022,17,
 New Mexico,2022,18,
 New Mexico,2022,19,
+New Mexico,2022,20,
+New Mexico,2022,21,
+New Mexico,2022,22,
+New Mexico,2022,23,
+New Mexico,2022,24,11
+New Mexico,2022,25,
 New York,2020,1,0
 New York,2020,2,0
 New York,2020,3,0
@@ -4105,12 +4303,12 @@ New York,2020,11,
 New York,2020,12,42
 New York,2020,13,295
 New York,2020,14,1105
-New York,2020,15,1928
+New York,2020,15,1929
 New York,2020,16,1931
 New York,2020,17,1521
 New York,2020,18,1065
 New York,2020,19,813
-New York,2020,20,611
+New York,2020,20,612
 New York,2020,21,408
 New York,2020,22,292
 New York,2020,23,223
@@ -4141,7 +4339,7 @@ New York,2020,47,199
 New York,2020,48,313
 New York,2020,49,386
 New York,2020,50,542
-New York,2020,51,706
+New York,2020,51,707
 New York,2020,52,774
 New York,2020,53,829
 New York,2021,1,975
@@ -4158,7 +4356,7 @@ New York,2021,11,208
 New York,2021,12,186
 New York,2021,13,182
 New York,2021,14,184
-New York,2021,15,203
+New York,2021,15,204
 New York,2021,16,203
 New York,2021,17,146
 New York,2021,18,133
@@ -4194,27 +4392,33 @@ New York,2021,47,240
 New York,2021,48,324
 New York,2021,49,373
 New York,2021,50,377
-New York,2021,51,388
-New York,2021,52,443
-New York,2022,1,572
-New York,2022,2,609
-New York,2022,3,633
-New York,2022,4,554
-New York,2022,5,462
-New York,2022,6,336
-New York,2022,7,225
-New York,2022,8,142
-New York,2022,9,109
+New York,2021,51,389
+New York,2021,52,444
+New York,2022,1,563
+New York,2022,2,602
+New York,2022,3,631
+New York,2022,4,545
+New York,2022,5,454
+New York,2022,6,331
+New York,2022,7,223
+New York,2022,8,139
+New York,2022,9,104
 New York,2022,10,91
-New York,2022,11,50
+New York,2022,11,45
 New York,2022,12,44
-New York,2022,13,43
-New York,2022,14,42
-New York,2022,15,41
-New York,2022,16,59
-New York,2022,17,78
-New York,2022,18,70
-New York,2022,19,92
+New York,2022,13,42
+New York,2022,14,38
+New York,2022,15,38
+New York,2022,16,56
+New York,2022,17,74
+New York,2022,18,79
+New York,2022,19,116
+New York,2022,20,83
+New York,2022,21,88
+New York,2022,22,72
+New York,2022,23,56
+New York,2022,24,51
+New York,2022,25,43
 New York City,2020,1,0
 New York City,2020,2,0
 New York City,2020,3,0
@@ -4268,15 +4472,15 @@ New York City,2020,50,152
 New York City,2020,51,205
 New York City,2020,52,247
 New York City,2020,53,278
-New York City,2021,1,351
+New York City,2021,1,352
 New York City,2021,2,382
 New York City,2021,3,465
 New York City,2021,4,471
 New York City,2021,5,463
 New York City,2021,6,472
 New York City,2021,7,430
-New York City,2021,8,415
-New York City,2021,9,359
+New York City,2021,8,416
+New York City,2021,9,360
 New York City,2021,10,373
 New York City,2021,11,272
 New York City,2021,12,331
@@ -4308,37 +4512,43 @@ New York City,2021,37,63
 New York City,2021,38,84
 New York City,2021,39,79
 New York City,2021,40,74
-New York City,2021,41,47
-New York City,2021,42,57
+New York City,2021,41,48
+New York City,2021,42,58
 New York City,2021,43,45
 New York City,2021,44,43
-New York City,2021,45,47
+New York City,2021,45,48
 New York City,2021,46,47
 New York City,2021,47,50
 New York City,2021,48,60
 New York City,2021,49,56
 New York City,2021,50,97
 New York City,2021,51,142
-New York City,2021,52,220
-New York City,2022,1,432
-New York City,2022,2,608
-New York City,2022,3,540
-New York City,2022,4,471
-New York City,2022,5,306
+New York City,2021,52,214
+New York City,2022,1,407
+New York City,2022,2,604
+New York City,2022,3,526
+New York City,2022,4,460
+New York City,2022,5,302
 New York City,2022,6,167
-New York City,2022,7,129
-New York City,2022,8,57
-New York City,2022,9,53
-New York City,2022,10,25
+New York City,2022,7,126
+New York City,2022,8,55
+New York City,2022,9,50
+New York City,2022,10,22
 New York City,2022,11,17
-New York City,2022,12,21
+New York City,2022,12,18
 New York City,2022,13,
 New York City,2022,14,13
-New York City,2022,15,16
-New York City,2022,16,20
+New York City,2022,15,12
+New York City,2022,16,18
 New York City,2022,17,11
-New York City,2022,18,17
-New York City,2022,19,19
+New York City,2022,18,18
+New York City,2022,19,25
+New York City,2022,20,25
+New York City,2022,21,29
+New York City,2022,22,24
+New York City,2022,23,26
+New York City,2022,24,27
+New York City,2022,25,22
 North Carolina,2020,1,0
 North Carolina,2020,2,0
 North Carolina,2020,3,0
@@ -4395,17 +4605,17 @@ North Carolina,2020,53,695
 North Carolina,2021,1,748
 North Carolina,2021,2,823
 North Carolina,2021,3,809
-North Carolina,2021,4,684
-North Carolina,2021,5,522
+North Carolina,2021,4,685
+North Carolina,2021,5,521
 North Carolina,2021,6,448
 North Carolina,2021,7,312
 North Carolina,2021,8,245
 North Carolina,2021,9,165
-North Carolina,2021,10,127
-North Carolina,2021,11,111
-North Carolina,2021,12,108
-North Carolina,2021,13,100
-North Carolina,2021,14,87
+North Carolina,2021,10,126
+North Carolina,2021,11,110
+North Carolina,2021,12,109
+North Carolina,2021,13,101
+North Carolina,2021,14,88
 North Carolina,2021,15,92
 North Carolina,2021,16,103
 North Carolina,2021,17,96
@@ -4419,22 +4629,22 @@ North Carolina,2021,24,43
 North Carolina,2021,25,50
 North Carolina,2021,26,36
 North Carolina,2021,27,31
-North Carolina,2021,28,41
+North Carolina,2021,28,40
 North Carolina,2021,29,67
 North Carolina,2021,30,110
 North Carolina,2021,31,163
-North Carolina,2021,32,252
-North Carolina,2021,33,401
+North Carolina,2021,32,253
+North Carolina,2021,33,400
 North Carolina,2021,34,493
 North Carolina,2021,35,605
-North Carolina,2021,36,587
-North Carolina,2021,37,624
-North Carolina,2021,38,575
+North Carolina,2021,36,589
+North Carolina,2021,37,626
+North Carolina,2021,38,576
 North Carolina,2021,39,488
-North Carolina,2021,40,438
-North Carolina,2021,41,344
-North Carolina,2021,42,319
-North Carolina,2021,43,238
+North Carolina,2021,40,441
+North Carolina,2021,41,345
+North Carolina,2021,42,318
+North Carolina,2021,43,240
 North Carolina,2021,44,185
 North Carolina,2021,45,133
 North Carolina,2021,46,134
@@ -4442,27 +4652,33 @@ North Carolina,2021,47,135
 North Carolina,2021,48,143
 North Carolina,2021,49,185
 North Carolina,2021,50,203
-North Carolina,2021,51,226
-North Carolina,2021,52,226
-North Carolina,2022,1,339
-North Carolina,2022,2,455
-North Carolina,2022,3,458
-North Carolina,2022,4,580
-North Carolina,2022,5,457
-North Carolina,2022,6,414
-North Carolina,2022,7,350
-North Carolina,2022,8,242
-North Carolina,2022,9,167
-North Carolina,2022,10,132
-North Carolina,2022,11,86
-North Carolina,2022,12,52
-North Carolina,2022,13,33
-North Carolina,2022,14,27
-North Carolina,2022,15,25
-North Carolina,2022,16,15
-North Carolina,2022,17,17
-North Carolina,2022,18,17
-North Carolina,2022,19,18
+North Carolina,2021,51,227
+North Carolina,2021,52,225
+North Carolina,2022,1,340
+North Carolina,2022,2,471
+North Carolina,2022,3,504
+North Carolina,2022,4,631
+North Carolina,2022,5,565
+North Carolina,2022,6,484
+North Carolina,2022,7,353
+North Carolina,2022,8,238
+North Carolina,2022,9,158
+North Carolina,2022,10,129
+North Carolina,2022,11,81
+North Carolina,2022,12,48
+North Carolina,2022,13,34
+North Carolina,2022,14,29
+North Carolina,2022,15,28
+North Carolina,2022,16,18
+North Carolina,2022,17,22
+North Carolina,2022,18,19
+North Carolina,2022,19,23
+North Carolina,2022,20,22
+North Carolina,2022,21,39
+North Carolina,2022,22,43
+North Carolina,2022,23,50
+North Carolina,2022,24,34
+North Carolina,2022,25,42
 North Dakota,2020,1,0
 North Dakota,2020,2,0
 North Dakota,2020,3,0
@@ -4555,7 +4771,7 @@ North Dakota,2021,36,19
 North Dakota,2021,37,19
 North Dakota,2021,38,21
 North Dakota,2021,39,29
-North Dakota,2021,40,36
+North Dakota,2021,40,37
 North Dakota,2021,41,48
 North Dakota,2021,42,54
 North Dakota,2021,43,39
@@ -4568,11 +4784,11 @@ North Dakota,2021,49,37
 North Dakota,2021,50,31
 North Dakota,2021,51,24
 North Dakota,2021,52,20
-North Dakota,2022,1,25
+North Dakota,2022,1,24
 North Dakota,2022,2,28
 North Dakota,2022,3,27
 North Dakota,2022,4,33
-North Dakota,2022,5,30
+North Dakota,2022,5,29
 North Dakota,2022,6,30
 North Dakota,2022,7,18
 North Dakota,2022,8,28
@@ -4586,7 +4802,13 @@ North Dakota,2022,15,
 North Dakota,2022,16,
 North Dakota,2022,17,
 North Dakota,2022,18,
-North Dakota,2022,19,0
+North Dakota,2022,19,
+North Dakota,2022,20,
+North Dakota,2022,21,
+North Dakota,2022,22,
+North Dakota,2022,23,
+North Dakota,2022,24,
+North Dakota,2022,25,
 Ohio,2020,1,0
 Ohio,2020,2,0
 Ohio,2020,3,0
@@ -4642,20 +4864,20 @@ Ohio,2020,52,1216
 Ohio,2020,53,1117
 Ohio,2021,1,976
 Ohio,2021,2,946
-Ohio,2021,3,766
-Ohio,2021,4,631
-Ohio,2021,5,513
+Ohio,2021,3,764
+Ohio,2021,4,630
+Ohio,2021,5,512
 Ohio,2021,6,366
 Ohio,2021,7,314
 Ohio,2021,8,219
 Ohio,2021,9,191
 Ohio,2021,10,164
 Ohio,2021,11,115
-Ohio,2021,12,101
+Ohio,2021,12,100
 Ohio,2021,13,100
-Ohio,2021,14,133
+Ohio,2021,14,132
 Ohio,2021,15,106
-Ohio,2021,16,164
+Ohio,2021,16,165
 Ohio,2021,17,123
 Ohio,2021,18,117
 Ohio,2021,19,103
@@ -4669,48 +4891,54 @@ Ohio,2021,26,31
 Ohio,2021,27,30
 Ohio,2021,28,34
 Ohio,2021,29,40
-Ohio,2021,30,47
+Ohio,2021,30,46
 Ohio,2021,31,66
-Ohio,2021,32,124
+Ohio,2021,32,123
 Ohio,2021,33,189
 Ohio,2021,34,240
 Ohio,2021,35,325
 Ohio,2021,36,402
 Ohio,2021,37,529
-Ohio,2021,38,603
+Ohio,2021,38,601
 Ohio,2021,39,595
-Ohio,2021,40,575
+Ohio,2021,40,574
 Ohio,2021,41,587
 Ohio,2021,42,552
-Ohio,2021,43,491
-Ohio,2021,44,400
+Ohio,2021,43,492
+Ohio,2021,44,401
 Ohio,2021,45,387
-Ohio,2021,46,458
+Ohio,2021,46,460
 Ohio,2021,47,585
 Ohio,2021,48,699
-Ohio,2021,49,797
-Ohio,2021,50,880
+Ohio,2021,49,800
+Ohio,2021,50,883
 Ohio,2021,51,854
-Ohio,2021,52,904
-Ohio,2022,1,1033
-Ohio,2022,2,1115
-Ohio,2022,3,1031
+Ohio,2021,52,902
+Ohio,2022,1,1030
+Ohio,2022,2,1107
+Ohio,2022,3,1023
 Ohio,2022,4,871
-Ohio,2022,5,681
+Ohio,2022,5,676
 Ohio,2022,6,511
-Ohio,2022,7,396
-Ohio,2022,8,263
-Ohio,2022,9,197
-Ohio,2022,10,115
-Ohio,2022,11,102
-Ohio,2022,12,62
-Ohio,2022,13,60
-Ohio,2022,14,40
-Ohio,2022,15,20
-Ohio,2022,16,26
-Ohio,2022,17,31
-Ohio,2022,18,14
-Ohio,2022,19,14
+Ohio,2022,7,390
+Ohio,2022,8,258
+Ohio,2022,9,195
+Ohio,2022,10,112
+Ohio,2022,11,104
+Ohio,2022,12,60
+Ohio,2022,13,59
+Ohio,2022,14,42
+Ohio,2022,15,22
+Ohio,2022,16,31
+Ohio,2022,17,36
+Ohio,2022,18,29
+Ohio,2022,19,30
+Ohio,2022,20,40
+Ohio,2022,21,40
+Ohio,2022,22,53
+Ohio,2022,23,42
+Ohio,2022,24,35
+Ohio,2022,25,20
 Oklahoma,2020,1,0
 Oklahoma,2020,2,0
 Oklahoma,2020,3,
@@ -4770,7 +4998,7 @@ Oklahoma,2021,3,408
 Oklahoma,2021,4,338
 Oklahoma,2021,5,232
 Oklahoma,2021,6,173
-Oklahoma,2021,7,156
+Oklahoma,2021,7,157
 Oklahoma,2021,8,125
 Oklahoma,2021,9,90
 Oklahoma,2021,10,54
@@ -4796,45 +5024,51 @@ Oklahoma,2021,29,54
 Oklahoma,2021,30,86
 Oklahoma,2021,31,146
 Oklahoma,2021,32,188
-Oklahoma,2021,33,261
-Oklahoma,2021,34,237
+Oklahoma,2021,33,262
+Oklahoma,2021,34,236
 Oklahoma,2021,35,310
 Oklahoma,2021,36,284
 Oklahoma,2021,37,271
 Oklahoma,2021,38,240
 Oklahoma,2021,39,222
 Oklahoma,2021,40,163
-Oklahoma,2021,41,146
-Oklahoma,2021,42,116
+Oklahoma,2021,41,147
+Oklahoma,2021,42,117
 Oklahoma,2021,43,110
 Oklahoma,2021,44,88
 Oklahoma,2021,45,77
 Oklahoma,2021,46,79
-Oklahoma,2021,47,77
-Oklahoma,2021,48,101
-Oklahoma,2021,49,107
-Oklahoma,2021,50,121
+Oklahoma,2021,47,79
+Oklahoma,2021,48,102
+Oklahoma,2021,49,109
+Oklahoma,2021,50,122
 Oklahoma,2021,51,122
-Oklahoma,2021,52,152
+Oklahoma,2021,52,154
 Oklahoma,2022,1,182
-Oklahoma,2022,2,240
-Oklahoma,2022,3,333
-Oklahoma,2022,4,366
-Oklahoma,2022,5,357
-Oklahoma,2022,6,289
-Oklahoma,2022,7,203
-Oklahoma,2022,8,119
-Oklahoma,2022,9,108
+Oklahoma,2022,2,238
+Oklahoma,2022,3,323
+Oklahoma,2022,4,347
+Oklahoma,2022,5,347
+Oklahoma,2022,6,269
+Oklahoma,2022,7,183
+Oklahoma,2022,8,110
+Oklahoma,2022,9,103
 Oklahoma,2022,10,46
-Oklahoma,2022,11,39
-Oklahoma,2022,12,27
+Oklahoma,2022,11,34
+Oklahoma,2022,12,28
 Oklahoma,2022,13,26
 Oklahoma,2022,14,
-Oklahoma,2022,15,11
-Oklahoma,2022,16,11
+Oklahoma,2022,15,13
+Oklahoma,2022,16,13
 Oklahoma,2022,17,
-Oklahoma,2022,18,
+Oklahoma,2022,18,10
 Oklahoma,2022,19,
+Oklahoma,2022,20,
+Oklahoma,2022,21,
+Oklahoma,2022,22,
+Oklahoma,2022,23,
+Oklahoma,2022,24,
+Oklahoma,2022,25,
 Oregon,2020,1,0
 Oregon,2020,2,0
 Oregon,2020,3,0
@@ -4919,15 +5153,15 @@ Oregon,2021,28,17
 Oregon,2021,29,20
 Oregon,2021,30,28
 Oregon,2021,31,52
-Oregon,2021,32,81
-Oregon,2021,33,143
+Oregon,2021,32,82
+Oregon,2021,33,144
 Oregon,2021,34,180
-Oregon,2021,35,236
+Oregon,2021,35,237
 Oregon,2021,36,212
 Oregon,2021,37,201
 Oregon,2021,38,192
-Oregon,2021,39,149
-Oregon,2021,40,152
+Oregon,2021,39,150
+Oregon,2021,40,153
 Oregon,2021,41,108
 Oregon,2021,42,119
 Oregon,2021,43,113
@@ -4939,26 +5173,32 @@ Oregon,2021,48,69
 Oregon,2021,49,65
 Oregon,2021,50,61
 Oregon,2021,51,59
-Oregon,2021,52,65
+Oregon,2021,52,64
 Oregon,2022,1,74
-Oregon,2022,2,94
-Oregon,2022,3,129
+Oregon,2022,2,93
+Oregon,2022,3,126
 Oregon,2022,4,151
-Oregon,2022,5,139
-Oregon,2022,6,138
-Oregon,2022,7,119
+Oregon,2022,5,138
+Oregon,2022,6,134
+Oregon,2022,7,121
 Oregon,2022,8,91
-Oregon,2022,9,74
-Oregon,2022,10,40
-Oregon,2022,11,35
-Oregon,2022,12,15
-Oregon,2022,13,14
+Oregon,2022,9,71
+Oregon,2022,10,41
+Oregon,2022,11,34
+Oregon,2022,12,14
+Oregon,2022,13,13
 Oregon,2022,14,
-Oregon,2022,15,12
+Oregon,2022,15,13
 Oregon,2022,16,10
-Oregon,2022,17,
-Oregon,2022,18,
-Oregon,2022,19,
+Oregon,2022,17,10
+Oregon,2022,18,15
+Oregon,2022,19,18
+Oregon,2022,20,16
+Oregon,2022,21,
+Oregon,2022,22,24
+Oregon,2022,23,12
+Oregon,2022,24,12
+Oregon,2022,25,14
 Pennsylvania,2020,1,0
 Pennsylvania,2020,2,0
 Pennsylvania,2020,3,0
@@ -5015,23 +5255,23 @@ Pennsylvania,2020,53,1372
 Pennsylvania,2021,1,1166
 Pennsylvania,2021,2,1011
 Pennsylvania,2021,3,919
-Pennsylvania,2021,4,772
-Pennsylvania,2021,5,583
+Pennsylvania,2021,4,771
+Pennsylvania,2021,5,581
 Pennsylvania,2021,6,454
-Pennsylvania,2021,7,377
-Pennsylvania,2021,8,272
+Pennsylvania,2021,7,378
+Pennsylvania,2021,8,273
 Pennsylvania,2021,9,210
 Pennsylvania,2021,10,183
-Pennsylvania,2021,11,167
+Pennsylvania,2021,11,166
 Pennsylvania,2021,12,174
 Pennsylvania,2021,13,182
 Pennsylvania,2021,14,213
-Pennsylvania,2021,15,283
+Pennsylvania,2021,15,284
 Pennsylvania,2021,16,301
 Pennsylvania,2021,17,242
-Pennsylvania,2021,18,237
-Pennsylvania,2021,19,184
-Pennsylvania,2021,20,165
+Pennsylvania,2021,18,238
+Pennsylvania,2021,19,183
+Pennsylvania,2021,20,166
 Pennsylvania,2021,21,128
 Pennsylvania,2021,22,98
 Pennsylvania,2021,23,85
@@ -5052,37 +5292,43 @@ Pennsylvania,2021,37,290
 Pennsylvania,2021,38,340
 Pennsylvania,2021,39,389
 Pennsylvania,2021,40,444
-Pennsylvania,2021,41,483
-Pennsylvania,2021,42,462
+Pennsylvania,2021,41,484
+Pennsylvania,2021,42,461
 Pennsylvania,2021,43,476
-Pennsylvania,2021,44,416
+Pennsylvania,2021,44,417
 Pennsylvania,2021,45,446
 Pennsylvania,2021,46,467
-Pennsylvania,2021,47,550
+Pennsylvania,2021,47,552
 Pennsylvania,2021,48,673
 Pennsylvania,2021,49,732
-Pennsylvania,2021,50,776
-Pennsylvania,2021,51,749
-Pennsylvania,2021,52,752
-Pennsylvania,2022,1,862
-Pennsylvania,2022,2,978
-Pennsylvania,2022,3,938
-Pennsylvania,2022,4,803
-Pennsylvania,2022,5,642
-Pennsylvania,2022,6,460
-Pennsylvania,2022,7,326
-Pennsylvania,2022,8,233
+Pennsylvania,2021,50,777
+Pennsylvania,2021,51,750
+Pennsylvania,2021,52,746
+Pennsylvania,2022,1,861
+Pennsylvania,2022,2,973
+Pennsylvania,2022,3,926
+Pennsylvania,2022,4,795
+Pennsylvania,2022,5,639
+Pennsylvania,2022,6,459
+Pennsylvania,2022,7,319
+Pennsylvania,2022,8,228
 Pennsylvania,2022,9,155
 Pennsylvania,2022,10,116
-Pennsylvania,2022,11,88
-Pennsylvania,2022,12,61
-Pennsylvania,2022,13,46
-Pennsylvania,2022,14,34
-Pennsylvania,2022,15,47
-Pennsylvania,2022,16,38
-Pennsylvania,2022,17,46
-Pennsylvania,2022,18,32
-Pennsylvania,2022,19,31
+Pennsylvania,2022,11,85
+Pennsylvania,2022,12,59
+Pennsylvania,2022,13,42
+Pennsylvania,2022,14,30
+Pennsylvania,2022,15,44
+Pennsylvania,2022,16,35
+Pennsylvania,2022,17,48
+Pennsylvania,2022,18,43
+Pennsylvania,2022,19,49
+Pennsylvania,2022,20,66
+Pennsylvania,2022,21,87
+Pennsylvania,2022,22,89
+Pennsylvania,2022,23,72
+Pennsylvania,2022,24,60
+Pennsylvania,2022,25,39
 Rhode Island,2020,1,0
 Rhode Island,2020,2,0
 Rhode Island,2020,3,0
@@ -5185,17 +5431,17 @@ Rhode Island,2021,46,15
 Rhode Island,2021,47,17
 Rhode Island,2021,48,20
 Rhode Island,2021,49,33
-Rhode Island,2021,50,27
+Rhode Island,2021,50,28
 Rhode Island,2021,51,44
 Rhode Island,2021,52,45
-Rhode Island,2022,1,47
-Rhode Island,2022,2,60
-Rhode Island,2022,3,70
-Rhode Island,2022,4,70
-Rhode Island,2022,5,39
+Rhode Island,2022,1,44
+Rhode Island,2022,2,56
+Rhode Island,2022,3,60
+Rhode Island,2022,4,68
+Rhode Island,2022,5,36
 Rhode Island,2022,6,29
-Rhode Island,2022,7,19
-Rhode Island,2022,8,15
+Rhode Island,2022,7,18
+Rhode Island,2022,8,14
 Rhode Island,2022,9,
 Rhode Island,2022,10,
 Rhode Island,2022,11,
@@ -5207,6 +5453,12 @@ Rhode Island,2022,16,
 Rhode Island,2022,17,
 Rhode Island,2022,18,
 Rhode Island,2022,19,
+Rhode Island,2022,20,
+Rhode Island,2022,21,
+Rhode Island,2022,22,
+Rhode Island,2022,23,
+Rhode Island,2022,24,
+Rhode Island,2022,25,
 South Carolina,2020,1,0
 South Carolina,2020,2,0
 South Carolina,2020,3,0
@@ -5259,20 +5511,20 @@ South Carolina,2020,49,178
 South Carolina,2020,50,168
 South Carolina,2020,51,230
 South Carolina,2020,52,290
-South Carolina,2020,53,341
-South Carolina,2021,1,413
+South Carolina,2020,53,342
+South Carolina,2021,1,414
 South Carolina,2021,2,475
-South Carolina,2021,3,494
-South Carolina,2021,4,426
-South Carolina,2021,5,364
+South Carolina,2021,3,495
+South Carolina,2021,4,428
+South Carolina,2021,5,363
 South Carolina,2021,6,288
 South Carolina,2021,7,205
 South Carolina,2021,8,178
-South Carolina,2021,9,132
+South Carolina,2021,9,133
 South Carolina,2021,10,110
 South Carolina,2021,11,80
 South Carolina,2021,12,79
-South Carolina,2021,13,69
+South Carolina,2021,13,68
 South Carolina,2021,14,73
 South Carolina,2021,15,68
 South Carolina,2021,16,74
@@ -5295,10 +5547,10 @@ South Carolina,2021,32,186
 South Carolina,2021,33,263
 South Carolina,2021,34,349
 South Carolina,2021,35,390
-South Carolina,2021,36,451
-South Carolina,2021,37,506
-South Carolina,2021,38,447
-South Carolina,2021,39,360
+South Carolina,2021,36,453
+South Carolina,2021,37,508
+South Carolina,2021,38,448
+South Carolina,2021,39,363
 South Carolina,2021,40,316
 South Carolina,2021,41,232
 South Carolina,2021,42,186
@@ -5311,26 +5563,32 @@ South Carolina,2021,48,61
 South Carolina,2021,49,78
 South Carolina,2021,50,87
 South Carolina,2021,51,107
-South Carolina,2021,52,112
-South Carolina,2022,1,98
-South Carolina,2022,2,166
-South Carolina,2022,3,236
-South Carolina,2022,4,388
-South Carolina,2022,5,371
-South Carolina,2022,6,313
-South Carolina,2022,7,204
-South Carolina,2022,8,143
-South Carolina,2022,9,86
-South Carolina,2022,10,75
-South Carolina,2022,11,31
-South Carolina,2022,12,30
-South Carolina,2022,13,11
+South Carolina,2021,52,115
+South Carolina,2022,1,164
+South Carolina,2022,2,220
+South Carolina,2022,3,280
+South Carolina,2022,4,374
+South Carolina,2022,5,340
+South Carolina,2022,6,286
+South Carolina,2022,7,189
+South Carolina,2022,8,129
+South Carolina,2022,9,78
+South Carolina,2022,10,69
+South Carolina,2022,11,30
+South Carolina,2022,12,26
+South Carolina,2022,13,10
 South Carolina,2022,14,
 South Carolina,2022,15,
 South Carolina,2022,16,10
 South Carolina,2022,17,
 South Carolina,2022,18,
-South Carolina,2022,19,
+South Carolina,2022,19,13
+South Carolina,2022,20,14
+South Carolina,2022,21,20
+South Carolina,2022,22,12
+South Carolina,2022,23,18
+South Carolina,2022,24,13
+South Carolina,2022,25,13
 South Dakota,2020,1,0
 South Dakota,2020,2,0
 South Dakota,2020,3,0
@@ -5437,9 +5695,9 @@ South Dakota,2021,50,51
 South Dakota,2021,51,30
 South Dakota,2021,52,33
 South Dakota,2022,1,51
-South Dakota,2022,2,32
+South Dakota,2022,2,31
 South Dakota,2022,3,31
-South Dakota,2022,4,42
+South Dakota,2022,4,41
 South Dakota,2022,5,38
 South Dakota,2022,6,28
 South Dakota,2022,7,30
@@ -5454,7 +5712,13 @@ South Dakota,2022,15,
 South Dakota,2022,16,
 South Dakota,2022,17,
 South Dakota,2022,18,0
-South Dakota,2022,19,0
+South Dakota,2022,19,
+South Dakota,2022,20,
+South Dakota,2022,21,
+South Dakota,2022,22,
+South Dakota,2022,23,
+South Dakota,2022,24,
+South Dakota,2022,25,0
 Tennessee,2020,1,0
 Tennessee,2020,2,0
 Tennessee,2020,3,0
@@ -5509,15 +5773,15 @@ Tennessee,2020,51,564
 Tennessee,2020,52,653
 Tennessee,2020,53,618
 Tennessee,2021,1,724
-Tennessee,2021,2,636
+Tennessee,2021,2,637
 Tennessee,2021,3,595
-Tennessee,2021,4,448
+Tennessee,2021,4,447
 Tennessee,2021,5,309
 Tennessee,2021,6,213
 Tennessee,2021,7,213
 Tennessee,2021,8,152
 Tennessee,2021,9,138
-Tennessee,2021,10,131
+Tennessee,2021,10,130
 Tennessee,2021,11,83
 Tennessee,2021,12,111
 Tennessee,2021,13,91
@@ -5540,45 +5804,51 @@ Tennessee,2021,29,75
 Tennessee,2021,30,91
 Tennessee,2021,31,153
 Tennessee,2021,32,295
-Tennessee,2021,33,371
-Tennessee,2021,34,500
-Tennessee,2021,35,623
+Tennessee,2021,33,372
+Tennessee,2021,34,501
+Tennessee,2021,35,624
 Tennessee,2021,36,687
-Tennessee,2021,37,747
-Tennessee,2021,38,701
+Tennessee,2021,37,746
+Tennessee,2021,38,702
 Tennessee,2021,39,539
-Tennessee,2021,40,462
-Tennessee,2021,41,339
+Tennessee,2021,40,463
+Tennessee,2021,41,341
 Tennessee,2021,42,287
-Tennessee,2021,43,204
+Tennessee,2021,43,207
 Tennessee,2021,44,140
 Tennessee,2021,45,176
 Tennessee,2021,46,130
 Tennessee,2021,47,126
-Tennessee,2021,48,164
+Tennessee,2021,48,165
 Tennessee,2021,49,181
-Tennessee,2021,50,168
-Tennessee,2021,51,187
-Tennessee,2021,52,225
-Tennessee,2022,1,311
-Tennessee,2022,2,416
+Tennessee,2021,50,169
+Tennessee,2021,51,188
+Tennessee,2021,52,224
+Tennessee,2022,1,291
+Tennessee,2022,2,413
 Tennessee,2022,3,463
-Tennessee,2022,4,514
-Tennessee,2022,5,509
-Tennessee,2022,6,503
-Tennessee,2022,7,393
-Tennessee,2022,8,259
-Tennessee,2022,9,216
-Tennessee,2022,10,126
+Tennessee,2022,4,517
+Tennessee,2022,5,507
+Tennessee,2022,6,499
+Tennessee,2022,7,390
+Tennessee,2022,8,257
+Tennessee,2022,9,212
+Tennessee,2022,10,125
 Tennessee,2022,11,78
-Tennessee,2022,12,69
-Tennessee,2022,13,45
-Tennessee,2022,14,21
-Tennessee,2022,15,24
-Tennessee,2022,16,13
-Tennessee,2022,17,18
-Tennessee,2022,18,10
-Tennessee,2022,19,12
+Tennessee,2022,12,65
+Tennessee,2022,13,44
+Tennessee,2022,14,16
+Tennessee,2022,15,25
+Tennessee,2022,16,15
+Tennessee,2022,17,21
+Tennessee,2022,18,15
+Tennessee,2022,19,20
+Tennessee,2022,20,17
+Tennessee,2022,21,25
+Tennessee,2022,22,21
+Tennessee,2022,23,24
+Tennessee,2022,24,24
+Tennessee,2022,25,24
 Texas,2020,1,0
 Texas,2020,2,0
 Texas,2020,3,0
@@ -5632,77 +5902,83 @@ Texas,2020,50,1538
 Texas,2020,51,1573
 Texas,2020,52,1658
 Texas,2020,53,1889
-Texas,2021,1,2393
-Texas,2021,2,2412
-Texas,2021,3,2296
-Texas,2021,4,2141
-Texas,2021,5,1790
+Texas,2021,1,2391
+Texas,2021,2,2413
+Texas,2021,3,2295
+Texas,2021,4,2142
+Texas,2021,5,1789
 Texas,2021,6,1437
-Texas,2021,7,1277
-Texas,2021,8,1006
-Texas,2021,9,771
+Texas,2021,7,1276
+Texas,2021,8,1007
+Texas,2021,9,770
 Texas,2021,10,634
-Texas,2021,11,521
-Texas,2021,12,395
+Texas,2021,11,520
+Texas,2021,12,397
 Texas,2021,13,308
 Texas,2021,14,300
-Texas,2021,15,298
+Texas,2021,15,299
 Texas,2021,16,300
 Texas,2021,17,266
 Texas,2021,18,264
 Texas,2021,19,244
-Texas,2021,20,228
-Texas,2021,21,232
+Texas,2021,20,227
+Texas,2021,21,233
 Texas,2021,22,173
-Texas,2021,23,150
+Texas,2021,23,149
 Texas,2021,24,141
 Texas,2021,25,138
 Texas,2021,26,156
 Texas,2021,27,152
 Texas,2021,28,213
 Texas,2021,29,311
-Texas,2021,30,466
-Texas,2021,31,791
+Texas,2021,30,465
+Texas,2021,31,792
 Texas,2021,32,1330
-Texas,2021,33,1764
-Texas,2021,34,2119
-Texas,2021,35,2223
-Texas,2021,36,2126
-Texas,2021,37,1997
-Texas,2021,38,1837
-Texas,2021,39,1578
+Texas,2021,33,1763
+Texas,2021,34,2120
+Texas,2021,35,2225
+Texas,2021,36,2128
+Texas,2021,37,1998
+Texas,2021,38,1838
+Texas,2021,39,1577
 Texas,2021,40,1257
-Texas,2021,41,1006
-Texas,2021,42,804
+Texas,2021,41,1008
+Texas,2021,42,803
 Texas,2021,43,608
 Texas,2021,44,468
 Texas,2021,45,420
-Texas,2021,46,377
-Texas,2021,47,383
+Texas,2021,46,378
+Texas,2021,47,386
 Texas,2021,48,418
 Texas,2021,49,452
-Texas,2021,50,432
-Texas,2021,51,439
-Texas,2021,52,567
-Texas,2022,1,759
-Texas,2022,2,1167
-Texas,2022,3,1561
-Texas,2022,4,1741
-Texas,2022,5,1548
+Texas,2021,50,433
+Texas,2021,51,442
+Texas,2021,52,564
+Texas,2022,1,746
+Texas,2022,2,1156
+Texas,2022,3,1538
+Texas,2022,4,1726
+Texas,2022,5,1546
 Texas,2022,6,1328
-Texas,2022,7,907
-Texas,2022,8,667
-Texas,2022,9,414
-Texas,2022,10,284
-Texas,2022,11,214
+Texas,2022,7,898
+Texas,2022,8,662
+Texas,2022,9,417
+Texas,2022,10,286
+Texas,2022,11,212
 Texas,2022,12,156
-Texas,2022,13,94
-Texas,2022,14,61
-Texas,2022,15,60
-Texas,2022,16,38
-Texas,2022,17,39
-Texas,2022,18,28
-Texas,2022,19,18
+Texas,2022,13,98
+Texas,2022,14,62
+Texas,2022,15,62
+Texas,2022,16,46
+Texas,2022,17,48
+Texas,2022,18,38
+Texas,2022,19,37
+Texas,2022,20,39
+Texas,2022,21,39
+Texas,2022,22,37
+Texas,2022,23,50
+Texas,2022,24,63
+Texas,2022,25,55
 Utah,2020,1,0
 Utah,2020,2,0
 Utah,2020,3,0
@@ -5758,8 +6034,8 @@ Utah,2020,52,93
 Utah,2020,53,83
 Utah,2021,1,97
 Utah,2021,2,92
-Utah,2021,3,90
-Utah,2021,4,72
+Utah,2021,3,91
+Utah,2021,4,71
 Utah,2021,5,50
 Utah,2021,6,38
 Utah,2021,7,27
@@ -5776,7 +6052,7 @@ Utah,2021,17,12
 Utah,2021,18,11
 Utah,2021,19,11
 Utah,2021,20,19
-Utah,2021,21,10
+Utah,2021,21,11
 Utah,2021,22,10
 Utah,2021,23,13
 Utah,2021,24,12
@@ -5793,8 +6069,8 @@ Utah,2021,34,58
 Utah,2021,35,68
 Utah,2021,36,67
 Utah,2021,37,74
-Utah,2021,38,88
-Utah,2021,39,67
+Utah,2021,38,91
+Utah,2021,39,69
 Utah,2021,40,85
 Utah,2021,41,81
 Utah,2021,42,58
@@ -5807,17 +6083,17 @@ Utah,2021,48,85
 Utah,2021,49,62
 Utah,2021,50,73
 Utah,2021,51,49
-Utah,2021,52,51
-Utah,2022,1,61
+Utah,2021,52,49
+Utah,2022,1,56
 Utah,2022,2,71
-Utah,2022,3,103
+Utah,2022,3,101
 Utah,2022,4,83
-Utah,2022,5,89
-Utah,2022,6,82
-Utah,2022,7,43
-Utah,2022,8,45
-Utah,2022,9,37
-Utah,2022,10,21
+Utah,2022,5,86
+Utah,2022,6,77
+Utah,2022,7,39
+Utah,2022,8,42
+Utah,2022,9,31
+Utah,2022,10,19
 Utah,2022,11,15
 Utah,2022,12,
 Utah,2022,13,
@@ -5827,6 +6103,12 @@ Utah,2022,16,
 Utah,2022,17,
 Utah,2022,18,
 Utah,2022,19,
+Utah,2022,20,
+Utah,2022,21,
+Utah,2022,22,
+Utah,2022,23,
+Utah,2022,24,
+Utah,2022,25,
 Vermont,2020,1,0
 Vermont,2020,2,0
 Vermont,2020,3,0
@@ -5923,7 +6205,7 @@ Vermont,2021,40,
 Vermont,2021,41,
 Vermont,2021,42,
 Vermont,2021,43,13
-Vermont,2021,44,11
+Vermont,2021,44,10
 Vermont,2021,45,
 Vermont,2021,46,
 Vermont,2021,47,
@@ -5933,9 +6215,9 @@ Vermont,2021,50,16
 Vermont,2021,51,
 Vermont,2021,52,16
 Vermont,2022,1,
-Vermont,2022,2,16
+Vermont,2022,2,15
 Vermont,2022,3,19
-Vermont,2022,4,12
+Vermont,2022,4,11
 Vermont,2022,5,10
 Vermont,2022,6,
 Vermont,2022,7,12
@@ -5951,6 +6233,12 @@ Vermont,2022,16,
 Vermont,2022,17,
 Vermont,2022,18,
 Vermont,2022,19,
+Vermont,2022,20,
+Vermont,2022,21,
+Vermont,2022,22,
+Vermont,2022,23,
+Vermont,2022,24,
+Vermont,2022,25,0
 Virginia,2020,1,0
 Virginia,2020,2,0
 Virginia,2020,3,0
@@ -6003,78 +6291,84 @@ Virginia,2020,49,222
 Virginia,2020,50,283
 Virginia,2020,51,329
 Virginia,2020,52,349
-Virginia,2020,53,421
+Virginia,2020,53,422
 Virginia,2021,1,477
-Virginia,2021,2,507
-Virginia,2021,3,492
-Virginia,2021,4,452
-Virginia,2021,5,384
-Virginia,2021,6,307
-Virginia,2021,7,244
-Virginia,2021,8,204
-Virginia,2021,9,128
-Virginia,2021,10,130
-Virginia,2021,11,112
-Virginia,2021,12,104
-Virginia,2021,13,73
-Virginia,2021,14,101
+Virginia,2021,2,511
+Virginia,2021,3,501
+Virginia,2021,4,460
+Virginia,2021,5,390
+Virginia,2021,6,311
+Virginia,2021,7,247
+Virginia,2021,8,207
+Virginia,2021,9,132
+Virginia,2021,10,131
+Virginia,2021,11,114
+Virginia,2021,12,105
+Virginia,2021,13,76
+Virginia,2021,14,103
 Virginia,2021,15,90
-Virginia,2021,16,106
-Virginia,2021,17,101
-Virginia,2021,18,75
+Virginia,2021,16,108
+Virginia,2021,17,105
+Virginia,2021,18,80
 Virginia,2021,19,76
 Virginia,2021,20,63
-Virginia,2021,21,46
-Virginia,2021,22,41
+Virginia,2021,21,47
+Virginia,2021,22,40
 Virginia,2021,23,39
 Virginia,2021,24,26
-Virginia,2021,25,29
+Virginia,2021,25,30
 Virginia,2021,26,21
 Virginia,2021,27,14
-Virginia,2021,28,16
-Virginia,2021,29,13
-Virginia,2021,30,35
-Virginia,2021,31,52
-Virginia,2021,32,78
-Virginia,2021,33,131
-Virginia,2021,34,172
-Virginia,2021,35,204
+Virginia,2021,28,17
+Virginia,2021,29,14
+Virginia,2021,30,36
+Virginia,2021,31,54
+Virginia,2021,32,79
+Virginia,2021,33,134
+Virginia,2021,34,177
+Virginia,2021,35,203
 Virginia,2021,36,233
-Virginia,2021,37,291
-Virginia,2021,38,311
-Virginia,2021,39,308
-Virginia,2021,40,256
-Virginia,2021,41,226
-Virginia,2021,42,193
-Virginia,2021,43,178
+Virginia,2021,37,294
+Virginia,2021,38,315
+Virginia,2021,39,307
+Virginia,2021,40,259
+Virginia,2021,41,228
+Virginia,2021,42,199
+Virginia,2021,43,180
 Virginia,2021,44,157
 Virginia,2021,45,118
-Virginia,2021,46,119
-Virginia,2021,47,120
-Virginia,2021,48,127
-Virginia,2021,49,177
-Virginia,2021,50,177
-Virginia,2021,51,199
+Virginia,2021,46,120
+Virginia,2021,47,119
+Virginia,2021,48,126
+Virginia,2021,49,180
+Virginia,2021,50,180
+Virginia,2021,51,203
 Virginia,2021,52,254
-Virginia,2022,1,331
-Virginia,2022,2,432
-Virginia,2022,3,459
-Virginia,2022,4,425
-Virginia,2022,5,375
-Virginia,2022,6,284
-Virginia,2022,7,223
-Virginia,2022,8,168
-Virginia,2022,9,105
-Virginia,2022,10,75
-Virginia,2022,11,57
-Virginia,2022,12,57
-Virginia,2022,13,28
-Virginia,2022,14,15
-Virginia,2022,15,22
+Virginia,2022,1,323
+Virginia,2022,2,428
+Virginia,2022,3,461
+Virginia,2022,4,424
+Virginia,2022,5,370
+Virginia,2022,6,279
+Virginia,2022,7,226
+Virginia,2022,8,165
+Virginia,2022,9,107
+Virginia,2022,10,78
+Virginia,2022,11,55
+Virginia,2022,12,55
+Virginia,2022,13,27
+Virginia,2022,14,16
+Virginia,2022,15,20
 Virginia,2022,16,20
-Virginia,2022,17,17
-Virginia,2022,18,10
-Virginia,2022,19,16
+Virginia,2022,17,19
+Virginia,2022,18,11
+Virginia,2022,19,28
+Virginia,2022,20,16
+Virginia,2022,21,32
+Virginia,2022,22,21
+Virginia,2022,23,40
+Virginia,2022,24,31
+Virginia,2022,25,36
 Washington,2020,1,0
 Washington,2020,2,0
 Washington,2020,3,0
@@ -6132,7 +6426,7 @@ Washington,2021,1,193
 Washington,2021,2,144
 Washington,2021,3,149
 Washington,2021,4,122
-Washington,2021,5,122
+Washington,2021,5,121
 Washington,2021,6,84
 Washington,2021,7,73
 Washington,2021,8,62
@@ -6159,46 +6453,52 @@ Washington,2021,28,21
 Washington,2021,29,30
 Washington,2021,30,41
 Washington,2021,31,68
-Washington,2021,32,100
+Washington,2021,32,99
 Washington,2021,33,143
 Washington,2021,34,186
-Washington,2021,35,252
-Washington,2021,36,253
+Washington,2021,35,251
+Washington,2021,36,254
 Washington,2021,37,284
 Washington,2021,38,265
 Washington,2021,39,231
 Washington,2021,40,182
 Washington,2021,41,202
-Washington,2021,42,147
-Washington,2021,43,145
+Washington,2021,42,146
+Washington,2021,43,144
 Washington,2021,44,145
 Washington,2021,45,145
-Washington,2021,46,128
+Washington,2021,46,129
 Washington,2021,47,133
 Washington,2021,48,114
 Washington,2021,49,122
 Washington,2021,50,85
-Washington,2021,51,80
+Washington,2021,51,81
 Washington,2021,52,119
 Washington,2022,1,151
-Washington,2022,2,218
-Washington,2022,3,251
-Washington,2022,4,243
+Washington,2022,2,219
+Washington,2022,3,244
+Washington,2022,4,241
 Washington,2022,5,207
 Washington,2022,6,187
-Washington,2022,7,136
-Washington,2022,8,114
-Washington,2022,9,73
-Washington,2022,10,38
-Washington,2022,11,30
+Washington,2022,7,133
+Washington,2022,8,111
+Washington,2022,9,71
+Washington,2022,10,39
+Washington,2022,11,32
 Washington,2022,12,21
-Washington,2022,13,11
-Washington,2022,14,
+Washington,2022,13,10
+Washington,2022,14,10
 Washington,2022,15,21
 Washington,2022,16,12
-Washington,2022,17,
-Washington,2022,18,
-Washington,2022,19,13
+Washington,2022,17,14
+Washington,2022,18,12
+Washington,2022,19,21
+Washington,2022,20,19
+Washington,2022,21,30
+Washington,2022,22,25
+Washington,2022,23,27
+Washington,2022,24,26
+Washington,2022,25,28
 West Virginia,2020,1,0
 West Virginia,2020,2,0
 West Virginia,2020,3,0
@@ -6253,8 +6553,8 @@ West Virginia,2020,51,177
 West Virginia,2020,52,156
 West Virginia,2020,53,183
 West Virginia,2021,1,196
-West Virginia,2021,2,157
-West Virginia,2021,3,126
+West Virginia,2021,2,156
+West Virginia,2021,3,127
 West Virginia,2021,4,100
 West Virginia,2021,5,87
 West Virginia,2021,6,76
@@ -6290,39 +6590,45 @@ West Virginia,2021,35,111
 West Virginia,2021,36,125
 West Virginia,2021,37,137
 West Virginia,2021,38,165
-West Virginia,2021,39,171
+West Virginia,2021,39,172
 West Virginia,2021,40,168
 West Virginia,2021,41,126
-West Virginia,2021,42,135
+West Virginia,2021,42,136
 West Virginia,2021,43,87
-West Virginia,2021,44,99
+West Virginia,2021,44,100
 West Virginia,2021,45,98
-West Virginia,2021,46,90
-West Virginia,2021,47,86
-West Virginia,2021,48,74
-West Virginia,2021,49,77
-West Virginia,2021,50,76
-West Virginia,2021,51,77
-West Virginia,2021,52,88
-West Virginia,2022,1,100
-West Virginia,2022,2,136
-West Virginia,2022,3,120
-West Virginia,2022,4,136
-West Virginia,2022,5,149
-West Virginia,2022,6,131
-West Virginia,2022,7,111
-West Virginia,2022,8,79
-West Virginia,2022,9,68
-West Virginia,2022,10,51
-West Virginia,2022,11,33
-West Virginia,2022,12,29
-West Virginia,2022,13,11
+West Virginia,2021,46,91
+West Virginia,2021,47,89
+West Virginia,2021,48,75
+West Virginia,2021,49,81
+West Virginia,2021,50,94
+West Virginia,2021,51,90
+West Virginia,2021,52,97
+West Virginia,2022,1,83
+West Virginia,2022,2,114
+West Virginia,2022,3,106
+West Virginia,2022,4,121
+West Virginia,2022,5,145
+West Virginia,2022,6,129
+West Virginia,2022,7,115
+West Virginia,2022,8,78
+West Virginia,2022,9,69
+West Virginia,2022,10,50
+West Virginia,2022,11,34
+West Virginia,2022,12,27
+West Virginia,2022,13,12
 West Virginia,2022,14,17
 West Virginia,2022,15,
 West Virginia,2022,16,
 West Virginia,2022,17,
 West Virginia,2022,18,
-West Virginia,2022,19,
+West Virginia,2022,19,11
+West Virginia,2022,20,14
+West Virginia,2022,21,
+West Virginia,2022,22,
+West Virginia,2022,23,10
+West Virginia,2022,24,12
+West Virginia,2022,25,
 Wisconsin,2020,1,0
 Wisconsin,2020,2,0
 Wisconsin,2020,3,0
@@ -6375,78 +6681,84 @@ Wisconsin,2020,49,432
 Wisconsin,2020,50,379
 Wisconsin,2020,51,356
 Wisconsin,2020,52,268
-Wisconsin,2020,53,248
-Wisconsin,2021,1,220
-Wisconsin,2021,2,180
-Wisconsin,2021,3,156
-Wisconsin,2021,4,130
-Wisconsin,2021,5,106
-Wisconsin,2021,6,71
-Wisconsin,2021,7,50
-Wisconsin,2021,8,51
-Wisconsin,2021,9,28
-Wisconsin,2021,10,28
-Wisconsin,2021,11,18
-Wisconsin,2021,12,22
-Wisconsin,2021,13,19
-Wisconsin,2021,14,29
-Wisconsin,2021,15,33
-Wisconsin,2021,16,24
-Wisconsin,2021,17,31
-Wisconsin,2021,18,28
-Wisconsin,2021,19,32
-Wisconsin,2021,20,26
-Wisconsin,2021,21,21
-Wisconsin,2021,22,24
-Wisconsin,2021,23,10
+Wisconsin,2020,53,252
+Wisconsin,2021,1,237
+Wisconsin,2021,2,191
+Wisconsin,2021,3,178
+Wisconsin,2021,4,156
+Wisconsin,2021,5,123
+Wisconsin,2021,6,89
+Wisconsin,2021,7,58
+Wisconsin,2021,8,53
+Wisconsin,2021,9,35
+Wisconsin,2021,10,33
+Wisconsin,2021,11,20
+Wisconsin,2021,12,26
+Wisconsin,2021,13,24
+Wisconsin,2021,14,34
+Wisconsin,2021,15,38
+Wisconsin,2021,16,31
+Wisconsin,2021,17,40
+Wisconsin,2021,18,30
+Wisconsin,2021,19,34
+Wisconsin,2021,20,30
+Wisconsin,2021,21,22
+Wisconsin,2021,22,27
+Wisconsin,2021,23,12
 Wisconsin,2021,24,
 Wisconsin,2021,25,
-Wisconsin,2021,26,12
-Wisconsin,2021,27,
+Wisconsin,2021,26,13
+Wisconsin,2021,27,11
 Wisconsin,2021,28,
 Wisconsin,2021,29,
-Wisconsin,2021,30,13
-Wisconsin,2021,31,18
-Wisconsin,2021,32,28
-Wisconsin,2021,33,52
-Wisconsin,2021,34,81
-Wisconsin,2021,35,95
-Wisconsin,2021,36,106
-Wisconsin,2021,37,132
-Wisconsin,2021,38,113
-Wisconsin,2021,39,128
-Wisconsin,2021,40,123
-Wisconsin,2021,41,139
-Wisconsin,2021,42,122
-Wisconsin,2021,43,134
-Wisconsin,2021,44,131
-Wisconsin,2021,45,140
-Wisconsin,2021,46,167
-Wisconsin,2021,47,186
-Wisconsin,2021,48,219
-Wisconsin,2021,49,246
-Wisconsin,2021,50,263
-Wisconsin,2021,51,258
-Wisconsin,2021,52,242
-Wisconsin,2022,1,238
-Wisconsin,2022,2,289
-Wisconsin,2022,3,271
-Wisconsin,2022,4,246
-Wisconsin,2022,5,162
-Wisconsin,2022,6,132
-Wisconsin,2022,7,93
-Wisconsin,2022,8,72
-Wisconsin,2022,9,44
-Wisconsin,2022,10,42
-Wisconsin,2022,11,28
-Wisconsin,2022,12,14
-Wisconsin,2022,13,24
+Wisconsin,2021,30,15
+Wisconsin,2021,31,30
+Wisconsin,2021,32,37
+Wisconsin,2021,33,66
+Wisconsin,2021,34,99
+Wisconsin,2021,35,108
+Wisconsin,2021,36,119
+Wisconsin,2021,37,152
+Wisconsin,2021,38,131
+Wisconsin,2021,39,154
+Wisconsin,2021,40,153
+Wisconsin,2021,41,162
+Wisconsin,2021,42,132
+Wisconsin,2021,43,150
+Wisconsin,2021,44,145
+Wisconsin,2021,45,152
+Wisconsin,2021,46,187
+Wisconsin,2021,47,206
+Wisconsin,2021,48,241
+Wisconsin,2021,49,274
+Wisconsin,2021,50,296
+Wisconsin,2021,51,277
+Wisconsin,2021,52,269
+Wisconsin,2022,1,281
+Wisconsin,2022,2,306
+Wisconsin,2022,3,300
+Wisconsin,2022,4,261
+Wisconsin,2022,5,181
+Wisconsin,2022,6,137
+Wisconsin,2022,7,99
+Wisconsin,2022,8,74
+Wisconsin,2022,9,43
+Wisconsin,2022,10,41
+Wisconsin,2022,11,27
+Wisconsin,2022,12,13
+Wisconsin,2022,13,25
 Wisconsin,2022,14,
 Wisconsin,2022,15,
-Wisconsin,2022,16,15
+Wisconsin,2022,16,16
 Wisconsin,2022,17,
-Wisconsin,2022,18,
-Wisconsin,2022,19,13
+Wisconsin,2022,18,10
+Wisconsin,2022,19,19
+Wisconsin,2022,20,15
+Wisconsin,2022,21,20
+Wisconsin,2022,22,20
+Wisconsin,2022,23,17
+Wisconsin,2022,24,17
+Wisconsin,2022,25,14
 Wyoming,2020,1,0
 Wyoming,2020,2,0
 Wyoming,2020,3,0
@@ -6552,25 +6864,31 @@ Wyoming,2021,49,23
 Wyoming,2021,50,17
 Wyoming,2021,51,19
 Wyoming,2021,52,12
-Wyoming,2022,1,16
-Wyoming,2022,2,12
-Wyoming,2022,3,10
-Wyoming,2022,4,21
-Wyoming,2022,5,21
-Wyoming,2022,6,24
-Wyoming,2022,7,12
-Wyoming,2022,8,13
-Wyoming,2022,9,11
-Wyoming,2022,10,
+Wyoming,2022,1,
+Wyoming,2022,2,
+Wyoming,2022,3,
+Wyoming,2022,4,
+Wyoming,2022,5,
+Wyoming,2022,6,12
+Wyoming,2022,7,
+Wyoming,2022,8,
+Wyoming,2022,9,
+Wyoming,2022,10,0
 Wyoming,2022,11,
-Wyoming,2022,12,
-Wyoming,2022,13,
+Wyoming,2022,12,0
+Wyoming,2022,13,0
 Wyoming,2022,14,
 Wyoming,2022,15,0
 Wyoming,2022,16,
 Wyoming,2022,17,0
 Wyoming,2022,18,
-Wyoming,2022,19,0
+Wyoming,2022,19,
+Wyoming,2022,20,0
+Wyoming,2022,21,
+Wyoming,2022,22,0
+Wyoming,2022,23,
+Wyoming,2022,24,
+Wyoming,2022,25,
 Puerto Rico,2020,1,0
 Puerto Rico,2020,2,0
 Puerto Rico,2020,3,0
@@ -6628,7 +6946,7 @@ Puerto Rico,2021,1,71
 Puerto Rico,2021,2,50
 Puerto Rico,2021,3,40
 Puerto Rico,2021,4,45
-Puerto Rico,2021,5,41
+Puerto Rico,2021,5,40
 Puerto Rico,2021,6,26
 Puerto Rico,2021,7,25
 Puerto Rico,2021,8,24
@@ -6655,9 +6973,9 @@ Puerto Rico,2021,28,
 Puerto Rico,2021,29,
 Puerto Rico,2021,30,13
 Puerto Rico,2021,31,30
-Puerto Rico,2021,32,55
-Puerto Rico,2021,33,82
-Puerto Rico,2021,34,81
+Puerto Rico,2021,32,56
+Puerto Rico,2021,33,81
+Puerto Rico,2021,34,79
 Puerto Rico,2021,35,79
 Puerto Rico,2021,36,84
 Puerto Rico,2021,37,62
@@ -6675,23 +6993,29 @@ Puerto Rico,2021,48,
 Puerto Rico,2021,49,
 Puerto Rico,2021,50,
 Puerto Rico,2021,51,
-Puerto Rico,2021,52,23
-Puerto Rico,2022,1,87
-Puerto Rico,2022,2,154
-Puerto Rico,2022,3,166
-Puerto Rico,2022,4,123
-Puerto Rico,2022,5,79
-Puerto Rico,2022,6,55
+Puerto Rico,2021,52,20
+Puerto Rico,2022,1,74
+Puerto Rico,2022,2,145
+Puerto Rico,2022,3,163
+Puerto Rico,2022,4,97
+Puerto Rico,2022,5,77
+Puerto Rico,2022,6,53
 Puerto Rico,2022,7,39
-Puerto Rico,2022,8,26
-Puerto Rico,2022,9,19
-Puerto Rico,2022,10,11
+Puerto Rico,2022,8,25
+Puerto Rico,2022,9,17
+Puerto Rico,2022,10,10
 Puerto Rico,2022,11,
 Puerto Rico,2022,12,
 Puerto Rico,2022,13,
 Puerto Rico,2022,14,
 Puerto Rico,2022,15,
 Puerto Rico,2022,16,
-Puerto Rico,2022,17,15
-Puerto Rico,2022,18,18
-Puerto Rico,2022,19,24
+Puerto Rico,2022,17,14
+Puerto Rico,2022,18,23
+Puerto Rico,2022,19,34
+Puerto Rico,2022,20,44
+Puerto Rico,2022,21,43
+Puerto Rico,2022,22,26
+Puerto Rico,2022,23,29
+Puerto Rico,2022,24,25
+Puerto Rico,2022,25,42

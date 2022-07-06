@@ -27,16 +27,17 @@ function archive() {
 start=$(gdate -d "(date) - 16 weeks" +%F)
 end=$(gdate -d "(date) - 3 weeks" +%F)
 
-mysql -h 127.0.0.1 -u root -e "DROP DATABASE IF EXISTS archive;"
-while ! [[ $start > $end ]]; do
-    start=$(gdate -d "$start + 1 week" +%F)
-    week=$(gdate -d $start +%Y)"_"$(gdate -d $start +%U)
-    archive "${week}"
-done
+# mysql -h 127.0.0.1 -u root -e "DROP DATABASE IF EXISTS archive;"
+# while ! [[ $start > $end ]]; do
+#     start=$(gdate -d "$start + 1 week" +%F)
+#     week=$(gdate -d $start +%Y)"_"$(gdate -d $start +%U)
+#     archive "${week}"
+# done
 
 # Single week
-# week=$(gdate -d $end +%Y)"_"$(gdate -d $end +%U)
-# archive $week
+end="2022-06-25"
+week=$(gdate -d $end +%Y)"_"$(gdate -d $end +%U)
+archive $week
 
 # Delay Correction
 mysql -h 127.0.0.1 -u root deaths <queries/exp_delay_correction.sql >out/mortality_delay_correction.csv
